@@ -1,0 +1,20 @@
+Run the daily Calgary direct-employer careers sweep in this workspace.
+
+Read AGENTS.md and follow it exactly.
+
+Tasks:
+1. Read careers/companies_seed.csv, careers/careers_registry.csv, and careers/jobs_registry.csv.
+2. Resolve missing direct employer careers pages for seed companies.
+3. Re-check known careers pages.
+4. Extract current open roles.
+5. Filter for relevant senior software engineering roles in Calgary, Alberta, hybrid Calgary, or Canada-remote when clearly valid.
+6. Deduplicate against jobs_registry.csv.
+7. Append only net-new roles.
+8. Write careers/runs/run-YYYY-MM-DD.md.
+9. Commit and push meaningful changes to origin/main.
+
+Final reply must be brief:
+- count of new careers pages
+- count of new jobs
+- bullet list of net-new jobs
+- pages needing review

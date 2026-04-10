@@ -1,0 +1,15 @@
+Run a midday refresh for the Calgary direct-employer careers workspace.
+
+Read AGENTS.md and follow it exactly.
+
+Tasks:
+1. Re-check only the most promising companies from careers/watchlist.md and recently active rows in careers/careers_registry.csv.
+2. Look for net-new relevant jobs posted since the last run.
+3. Append only net-new jobs to careers/jobs_registry.csv.
+4. Write careers/runs/midday-refresh-YYYY-MM-DD.md.
+5. Commit and push meaningful changes to origin/main.
+
+Final reply must be brief:
+- count of new jobs
+- bullet list of net-new jobs
+- pages needing review

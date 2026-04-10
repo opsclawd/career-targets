@@ -1,0 +1,15 @@
+Run the weekly review for the Calgary career-targets workspace.
+
+Read AGENTS.md and follow it exactly.
+
+Tasks:
+1. Review careers_registry.csv for stale, broken, redirected, or low-value targets.
+2. Review jobs_registry.csv for repeated noise patterns.
+3. Update watchlist.md, rejected.md, and notes.md as needed.
+4. Write careers/runs/weekly-review-YYYY-MM-DD.md.
+5. Commit and push meaningful changes to origin/main.
+
+Final reply must be brief:
+- careers pages marked stale or broken
+- watchlist changes
+- recommended seed list additions

@@ -1,0 +1,6 @@
+{
+  "agent": {
+    "workspace": "/absolute/path/to/career-targets",
+    "skipBootstrap": true
+  }
+}

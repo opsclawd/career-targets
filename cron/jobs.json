@@ -1,0 +1,27 @@
+{
+  "timezone": "America/Edmonton",
+  "jobs": [
+    {
+      "name": "Career targets daily sourcing",
+      "cron": "10 7 * * 1-5",
+      "session": "isolated",
+      "delivery": {
+        "mode": "announce",
+        "channel": "telegram",
+        "to": "telegram:-5224658142"
+      },
+      "messageFile": "cron/messages/daily-sourcing.txt"
+    },
+    {
+      "name": "Career targets weekly review",
+      "cron": "0 9 * * 6",
+      "session": "isolated",
+      "delivery": {
+        "mode": "announce",
+        "channel": "telegram",
+        "to": "telegram:-5224658142"
+      },
+      "messageFile": "cron/messages/weekly-review.txt"
+    }
+  ]
+}
