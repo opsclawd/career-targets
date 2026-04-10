@@ -1,1 +1,12 @@
-company,source,notes
+company,careers_url,ats_type,source,last_checked,status,notes
+Benevity,https://benevity.com/careers,greenhouse,seed,2026-04-10,active,"Calgary-based, tech for good"
+Symend,https://symend.com/careers,greenhouse,seed,2026-04-10,active,"Calgary fintech"
+Village Trust,https://villagetrust.com/careers,lever,seed,2026-04-10,active,"Calgary fintech/insurtech"
+Canadian Pacific Kansas City,https://cPKC.com/careers,greenhouse,seed,2026-04-10,active,"Major rail company, tech modernization"
+ATB Financial,https://atb.com/careers,greenhouse,seed,2026-04-10,active,"Alberta bank, big tech presence"
+Occupational Health,https://occupationalhealth.ca/careers,unknown,seed,2026-04-10,active,"Check if they have SWE roles"
+Granite Solutions,https://granitesolutions.ca/careers,unknown,seed,2026-04-10,active,"Calgary-based"
+Mackenzie Financial,https://mackenzieinvestments.com/careers,greenhouse,seed,2026-04-10,active,"Toronto but Canada-remote possible"
+RBC,https://rbc.com/careers,greenhouse,seed,2026-04-10,active,"Canada's biggest bank, tech roles"
+TD Bank,https://td.com/careers,greenhouse,seed,2026-04-10,active,"Canada-remote engineering roles"
+Shopify,https://shopify.com/careers,greenhouse,seed,2026-04-10,active,"Canada-remote, strong engineering culture"
