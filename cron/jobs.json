@@ -8,7 +8,7 @@
       "delivery": {
         "mode": "announce",
         "channel": "telegram",
-        "to": "telegram:-5224658142"
+        "to": "telegram:-5107917726"
       },
       "messageFile": "cron/messages/daily-sourcing.txt"
     },
@@ -19,7 +19,7 @@
       "delivery": {
         "mode": "announce",
         "channel": "telegram",
-        "to": "telegram:-5224658142"
+        "to": "telegram:-5107917726"
       },
       "messageFile": "cron/messages/weekly-review.txt"
     }

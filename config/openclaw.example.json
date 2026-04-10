@@ -1,6 +1,6 @@
 {
   "agent": {
-    "workspace": "/absolute/path/to/career-targets",
+    "workspace": "/home/gary/.openclaw/workspace/career-targets",
     "skipBootstrap": true
   }
 }
