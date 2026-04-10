@@ -1,0 +1,43 @@
+name: Daily Job Sites Sync
+
+on:
+  schedule:
+    # Run daily at 8:00 AM MDT (14:00 UTC)
+    - cron: '0 14 * * *'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Validate portals.yml
+        run: |
+          # Basic validation that portals.yml is valid YAML and has required fields
+          if ! command -v python3 &> /dev/null; then
+            echo "Python not available, skipping YAML validation"
+            exit 0
+          fi
+          python3 -c "
+          import yaml
+          with open('portals.yml', 'r') as f:
+              data = yaml.safe_load(f)
+          assert 'title_filter' in data, 'Missing title_filter'
+          assert 'search_queries' in data, 'Missing search_queries'
+          assert 'tracked_companies' in data, 'Missing tracked_companies'
+          print(f'✓ Valid portals.yml: {len(data[\"search_queries\"])} search queries, {len(data[\"tracked_companies\"])} companies')
+          "
+
+      - name: Commit if changed
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          if git diff --quiet; then
+            echo "No changes to commit"
+          else
+            git add -A
+            git commit -m "Daily sync: $(date +'%Y-%m-%d')"
+            git push
+          fi

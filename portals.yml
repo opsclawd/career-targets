@@ -1,0 +1,181 @@
+# Portal Scanner Configuration
+# Used by career-ops scan to discover new offers automatically.
+# Source of truth for job site targets - cloned by career-ops installations.
+#
+# Strategy (3 levels):
+#   1. Playwright → careers_url of each company (real-time, reliable)
+#   2. Greenhouse API → structured JSON (fast, Greenhouse-only)
+#   3. WebSearch with site: filters (broad discovery, may be stale)
+#
+# IMPORTANT: Each company in tracked_companies MUST have careers_url.
+
+# -- Title filter --
+# The scanner uses these keywords to decide if a title is relevant.
+# At least 1 positive must match AND 0 negatives must match (case-insensitive).
+
+title_filter:
+  positive:
+    # -- Senior Software Engineer keywords --
+    - "Senior Software Engineer"
+    - "Senior Software Developer"
+    - "Staff Software Engineer"
+    - "Principal Software Engineer"
+    - "Lead Software Engineer"
+    - "Software Engineer II"
+    - "Software Engineer III"
+    # -- AI/ML roles --
+    - "AI"
+    - "ML"
+    - "LLM"
+    - "Agent"
+    - "Agentic"
+    - "GenAI"
+    - "Generative AI"
+    - "NLP"
+    - "LLMOps"
+    - "MLOps"
+    # -- Platform/Infra roles --
+    - "Platform Engineer"
+    - "Infrastructure"
+    - "Cloud Engineer"
+    - "SRE"
+    - "DevOps"
+    # -- Architecture roles --
+    - "Solutions Architect"
+    - "Systems Architect"
+    - "Technical Lead"
+  negative:
+    # -- Excluded keywords --
+    - "Junior"
+    - "Intern"
+    - ".NET"
+    - "Java "
+    - "iOS"
+    - "Android"
+    - "PHP"
+    - "Ruby"
+    - "Embedded"
+    - "Firmware"
+    - "FPGA"
+    - "ASIC"
+    - "Blockchain"
+    - "Web3"
+    - "Crypto"
+  seniority_boost:
+    - "Senior"
+    - "Staff"
+    - "Principal"
+    - "Lead"
+    - "Director"
+
+# -- Search queries --
+# Each query triggers a WebSearch. Use site: to filter by portal.
+
+search_queries:
+  # -- LinkedIn --
+  - name: LinkedIn — Senior SWE
+    query: 'site:linkedin.com/jobs "Senior Software Engineer" OR "Staff Software Engineer" remote'
+    enabled: true
+
+  # -- Greenhouse --
+  - name: Greenhouse — Senior SWE
+    query: 'site:boards.greenhouse.io OR site:job-boards.greenhouse.io "Senior Software Engineer" remote'
+    enabled: true
+
+  - name: Greenhouse — AI/ML Engineer
+    query: 'site:boards.greenhouse.io OR site:job-boards.greenhouse.io "Software Engineer" AI OR ML OR LLM remote'
+    enabled: true
+
+  # -- Ashby --
+  - name: Ashby — Senior SWE
+    query: 'site:jobs.ashbyhq.com "Senior Software Engineer" OR "Staff Software Engineer" remote'
+    enabled: true
+
+  # -- Lever --
+  - name: Lever — Senior SWE
+    query: 'site:jobs.lever.co "Senior Software Engineer" OR "Staff Software Engineer" remote'
+    enabled: true
+
+  # -- Wellfound (startups) --
+  - name: Wellfound — Senior SWE
+    query: 'site:wellfound.com "Senior Software Engineer" OR "Staff Software Engineer" remote'
+    enabled: true
+
+  # -- Indeed --
+  - name: Indeed — Senior SWE
+    query: 'site:indeed.com "Senior Software Engineer" remote'
+    enabled: true
+
+  # -- Remote job boards --
+  - name: WeWorkRemotely — Senior SWE
+    query: 'site:weworkremotely.com "Senior Software Engineer" OR "Staff Software Engineer"'
+    enabled: true
+
+  - name: RemoteOK — Senior SWE
+    query: 'site:remoteok.com "Senior Software Engineer" OR "Staff Software Engineer"'
+    enabled: true
+
+  - name: Remotive — Senior SWE
+    query: 'site:remotive.com "Senior Software Engineer" OR "Staff Software Engineer"'
+    enabled: true
+
+# -- Tracked companies --
+# Pre-configured companies with their career page URLs.
+
+tracked_companies:
+  # -- Major Tech --
+  - name: Anthropic
+    careers_url: https://anthropic.com/careers
+    enabled: false
+
+  - name: OpenAI
+    careers_url: https://openai.com/careers
+    enabled: false
+
+  - name: Google
+    careers_url: https://careers.google.com
+    enabled: false
+
+  - name: Meta
+    careers_url: https://careers.meta.com
+    enabled: false
+
+  - name: Amazon
+    careers_url: https://amazon.jobs
+    enabled: false
+
+  - name: Microsoft
+    careers_url: https://careers.microsoft.com
+    enabled: false
+
+  # -- AI/ML Companies --
+  - name: LangChain
+    careers_url: https://langchain.com/careers
+    enabled: false
+
+  - name: Pinecone
+    careers_url: https://pinecone.io/careers
+    enabled: false
+
+  - name: Cohere
+    careers_url: https://cohere.com/careers
+    enabled: false
+
+  # -- Cloud/Infra --
+  - name: Vercel
+    careers_url: https://vercel.com/careers
+    enabled: false
+
+  - name: Cloudflare
+    careers_url: https://cloudflare.com/careers
+    enabled: false
+
+  - name: Databricks
+    careers_url: https://databricks.com/careers
+    enabled: false
+
+  # -- Add your target companies here --
+  # Format:
+  # - name: Company Name
+  #   careers_url: https://company.com/careers
+  #   enabled: true
