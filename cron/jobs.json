@@ -3,7 +3,7 @@
   "jobs": [
     {
       "name": "Career targets daily sourcing",
-      "cron": "10 7 * * 1-5",
+      "cron": "10 7 * * *",
       "session": "isolated",
       "delivery": {
         "mode": "announce",
