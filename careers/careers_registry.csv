@@ -1,1 +1,12 @@
 company,careers_url,ats_type,source,last_checked,status,notes
+Benevity,https://benevity.com/join-the-team,greenhouse,seed,2026-04-11,active,"Calgary-based, tech for good; job board at hub.benevity.com"
+Symend,https://www.symend.com/company/careers,custom,seed,2026-04-11,active,"Calgary fintech; careers page confirmed; ATS type unconfirmed"
+Village Trust,https://villagetrust.com/careers,unknown,seed,2026-04-10,needs_review,"DNS failure; try alternate search; Calgary fintech/insurtech"
+Canadian Pacific Kansas City,https://careers.cpr.ca/,greenhouse,seed,2026-04-11,active,"Major rail company; Greenhouse board confirmed at careers.cpr.ca"
+ATB Financial,https://www.atb.com/company/careers/,custom,seed,2026-04-11,active,"Alberta bank; redirects to careers.atb.com; Workday likely"
+Occupational Health,https://occupationalhealth.ca/careers,unknown,seed,2026-04-10,needs_review,"DNS failure; verify company name; not found via search"
+Granite Solutions,https://granitesolutions.ca/careers,unknown,seed,2026-04-10,needs_review,"URL returns stone/masonry co; not software company"
+Mackenzie Financial,https://careersen-mackenzieinvestments.icims.com/jobs/search,icims,seed,2026-04-11,active,"iCIMS board confirmed; no job content retrieved (JS-gated)"
+RBC,https://jobs.rbc.com/ca/en/,workday,seed,2026-04-11,active,"Canada's biggest bank; Workday board; strong Calgary tech presence"
+TD Bank,https://td.com/careers,unknown,seed,2026-04-10,needs_review,"Redirects to generic td.com; no valid careers page found"
+Shopify,https://www.shopify.com/careers,custom,seed,2026-04-11,active,"Canada-remote, strong engineering culture; ATS type unconfirmed"
