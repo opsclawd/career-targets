@@ -1,20 +1,30 @@
-Run the daily Calgary direct-employer careers sweep in this workspace.
+Run the daily Calgary software careers discovery sweep in this workspace.
 
 Read AGENTS.md and follow it exactly.
 
+GOAL: Build a comprehensive, ever-growing registry of Calgary-area companies that have (or had) software engineering roles on their careers pages — regardless of whether they have current openings. This is a long-term talent-pipeline tracker, not a "jobs right now" list.
+
 Tasks:
 1. Read careers/companies_seed.csv, careers/careers_registry.csv, and careers/jobs_registry.csv.
-2. Resolve missing direct employer careers pages for seed companies.
-3. Re-check known careers pages.
-4. Extract current open roles.
-5. Filter for relevant senior software engineering roles in Calgary, Alberta, hybrid Calgary, or Canada-remote when clearly valid.
-6. Deduplicate against jobs_registry.csv.
-7. Append only net-new roles.
-8. Write careers/runs/run-YYYY-MM-DD.md.
-9. Commit and push meaningful changes to origin/main.
+2. Crawl the web broadly to discover NEW Calgary-area companies with careers pages:
+   - Search for "Calgary software company careers", "Calgary tech company jobs", "Calgary Alberta careers page" and similar queries
+   - Find companies on LinkedIn, Glassdoor, Indeed, AngelList with Calgary software roles (past or present)
+   - Find companies on local job boards (Calgary Economic Development, Startup Calgary, etc.)
+   - Check directories and lists of Calgary tech companies
+   - Check local tech companies, agencies, consultancies, SaaS companies, fintech, oil & gas tech subsidiaries, etc.
+   - DO NOT limit to companies with current openings — any company that HAS HAD software roles qualifies
+3. Resolve missing careers pages for known seed companies
+4. Re-check known careers pages for any new roles
+5. Extract any software engineering roles found (past or present — capture the role, not just currently open)
+6. For ALL discovered companies (with or without current openings), add to careers_registry.csv if new
+7. Deduplicate against careers_registry.csv
+8. Append new companies and any new jobs to their respective registries
+9. Write careers/runs/run-YYYY-MM-DD.md
+10. Commit and push meaningful changes to origin/main
 
 Final reply must be brief:
-- count of new careers pages
-- count of new jobs
-- bullet list of net-new jobs
+- count of new companies discovered (even without current openings)
+- count of new jobs found
+- bullet list of notable new companies discovered
+- bullet list of net-new jobs found
 - pages needing review
