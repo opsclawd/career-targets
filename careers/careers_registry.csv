@@ -1,4 +1,5 @@
 company,careers_url,ats_type,source,last_checked,status,notes
+The I.T. Company,https://theitcompany.ca/careers,unknown,discovered,2026-04-16,active,"Airdrie AB (Calgary area) IT/software company; Intermediate Software Engineer on LinkedIn"
 Benevity,https://benevity.com/join-the-team,greenhouse,seed,2026-04-13,active,"Calgary-based, tech for good; Greenhouse API confirmed; no senior SWE roles found this run"
 Symend,https://www.symend.com/company/careers,custom,seed,2026-04-13,needs_review,"Greenhouse board (boards.greenhouse.io/symend) is no longer active (404); careers page is marketing-only; no ATS job listings found; no alternate ATS found this run"
 Village Trust,https://villagetrust.com/careers,unknown,seed,2026-04-10,needs_review,"DNS failure; verify company name; Calgary fintech/insurtech"
@@ -39,3 +40,9 @@ AbaData,https://abadata.ca/,unknown,discovered,2026-04-15,active,"Calgary oil & 
 Trufla,https://www.trufla.com/careers,unknown,discovered,2026-04-15,active,"Calgary insurtech; Senior SWE role on LinkedIn"
 Rokt,https://www.rokt.com/careers,unknown,discovered,2026-04-15,active,"Ecommerce/adtech; Calgary presence per Built In Calgary"
 Xero,https://www.xero.com/ca/careers/,unknown,discovered,2026-04-15,active,"Accounting SaaS; Calgary presence per Built In Calgary"
+GHGSat,https://www.ghgsat.com/en/careers,unknown,discovered,2026-04-16,active,"Montreal-based satellite emissions monitoring; Calgary office; Embedded Software Developer on LinkedIn"
+Alpaca,https://alpaca.markets/careers,unknown,discovered,2026-04-16,active,"Fintech/trading API platform; Senior SWE Tax Platform in Calgary on LinkedIn"
+TC Energy,https://www.tcenergy.com/careers/,unknown,discovered,2026-04-16,active,"Major energy infrastructure; Calgary HQ; Data Engineer on LinkedIn"
+BigGeo,https://biggeo.com/careers,unknown,discovered,2026-04-16,active,"Geospatial data/software; Calgary; Senior SWE on LinkedIn; careers page returns 404"
+AMD,https://www.amd.com/en/corporate/careers,icims,discovered,2026-04-16,active,"Global semiconductor; Calgary office; Staff SDE on LinkedIn"
+BlastOff Media,https://blastoffmedia.com/careers,unknown,discovered,2026-04-16,active,"Calgary digital media; Full Stack Software Developer on LinkedIn"
