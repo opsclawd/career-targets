@@ -12,21 +12,42 @@ Working notes about employers, ATS quirks, search patterns, and Calgary-market o
 
 ---
 
-## Weekly Review 2026-04-11
+## Weekly Review 2026-04-18
 
 ### ATS Patterns Observed
 
-- **Greenhouse** — `boards-api.greenhouse.io/v1/boards/{slug}/jobs` is a reliable API endpoint for job extraction. Check if slug matches company name or known brand.
-- **Workday** — JS-rendered; no static job content. May need browser automation or Workday API discovery.
-- **iCIMS** — JS-rendered; no static content. Job extraction blocked.
-- **Lever, Ashby, SmartRecruiters** — Not yet encountered in this seed; watch for future companies.
+- **Greenhouse** — `boards-api.greenhouse.io/v1/boards/{slug}/jobs` works for Benevity and Orennia. Symend's board is decommissioned (404). Try slug variations before giving up.
+- **Workday** — JS-rendered across the board. RBC, TD, ATB Financial all use Workday. No static extraction possible without browser automation.
+- **Lever** — Orennia uses Lever. API-accessible at `api.lever.co/v0/postings/{slug}`.
+- **Dover** — Validere uses Dover. Limited extraction experience.
+- **iCIMS** — JS-rendered; Mackenzie Investments, Capco. Low priority.
+- **Unknown/Custom** — 60 companies with unknown ATS. LinkedIn is the primary discovery source for these.
 
-### Noise Patterns
+### Search Source Reliability
 
-- Several seed companies had outdated/broken careers URLs from the original seed file. These were corrected in the 2026-04-11 run. The seed file appears to be stale — consider refreshing it with verified URLs.
-- TD Bank has no valid direct careers page accessible; the td.com/careers redirect leads to a generic page. TD may require a specific job board URL pattern.
+- **LinkedIn job search** — Most productive source this week. Delivers 100+ Calgary SWE results per sweep. Essential for companies with JS-rendered career pages.
+- **Built In Calgary** — Good for company discovery and some job listings. Limited to member companies.
+- **DuckDuckGo** — Unreliable due to rate-limiting and bot detection. Not viable as a primary search source.
+- **Direct career page fetch** — Works only for Greenhouse/Lever boards. All Workday/iCIMS/custom pages are JS-rendered and return no content.
 
-### Market Observations
+### Market Observations (Apr 12–18)
 
-- Calgary senior software engineering roles are sparse on direct employer boards right now. RBC is the most productive find so far.
-- Many Calgary fintech/insurtech companies (Symend, Village Trust) have small engineering teams and may not have active senior postings.
+- Calgary SWE market is surprisingly active for mid-April. 81 roles tracked across 73 companies.
+- **Affirm** is the biggest surprise — 3 new backend roles in one day suggests a major Calgary engineering expansion.
+- **Canonical** continues to be the highest-volume hirer (8 roles) with remote-first model benefiting Calgary.
+- **O&G tech** is well represented: Cenovus, Enverus, Quorum Software, TC Energy, Subsurface Dynamics, Validere, Orennia.
+- **Fintech** cluster growing: RBC, Peoples Group, NDAX, ZayZoon, Alpaca, Neo Financial.
+- **Data Engineering** roles are almost as common as SWE roles — consider whether to broaden scope.
+
+### Data Quality Issues
+
+- **Capco** entry in jobs_registry has wrong careers_url (points to morganstanley.com). Should be capco.com/careers.
+- **BigGeo** careers page 404s; company recruits only via LinkedIn.
+- **Several seed file URLs** were stale/broken. Most were corrected during the Apr 11–15 runs.
+- **Job posted_date** is often "unknown" for LinkedIn-sourced entries. Consider adding date extraction.
+
+### Infrastructure Notes
+
+- **DuckDuckGo rate limiting** is consistent across runs. Consider rotating user-agents or using alternative search APIs.
+- **Browser automation** would unlock Workday/iCIMS/custom board extraction — the single biggest improvement possible.
+- **LinkedIn public pages** work without login but may require browser for full job detail access.
