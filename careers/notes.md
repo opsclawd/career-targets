@@ -51,3 +51,62 @@ Working notes about employers, ATS quirks, search patterns, and Calgary-market o
 - **DuckDuckGo rate limiting** is consistent across runs. Consider rotating user-agents or using alternative search APIs.
 - **Browser automation** would unlock Workday/iCIMS/custom board extraction — the single biggest improvement possible.
 - **LinkedIn public pages** work without login but may require browser for full job detail access.
+
+---
+
+## Weekly Review 2026-04-25
+
+### Registry Status (End of Week 2)
+
+- **88 companies** in careers_registry (up from ~73 at Apr 18)
+- **108 jobs** in jobs_registry (up from ~81)
+- **0 needs_review** — all previously unresolved companies either rejected (Symend, Village Trust, Occupational Health, MobSquad) or moved to watchlist (Blackline Safety Corp., Amplifier Health)
+- **6 rejected** total (Granite Solutions, Symend, Village Trust, Occupational Health + 2 prior)
+- **4 watchlist** additions this week (Blackline Safety Corp., Amplifier Health + the new Top Hiring companies NDAX and Keyera)
+
+### Key Developments This Week
+
+1. **NDAX confirmed active** — Workable board at apply.workable.com/ndax; 8+ open roles; Great Place to Work Certified. Previously a needs_review company resolved this week.
+2. **MobSquad domain defunct** — All pages return 404 (copyright 2022 on defunct GoDaddy site). 4 SWE jobs in jobs_registry from Apr 14 eluta.ca discovery — roles likely expired. Rejected.
+3. **Blackline Safety Corp.** — had Manufacturing SWE role Apr 11 (eluta.ca). LinkedIn search this week shows only 1 non-SWE role (Regional Sales Manager US West). Moved to watchlist pending confirmation of SWE availability.
+4. **Amplifier Health** — real Calgary voice AI healthcare company with confirmed HQ, but SWE roles still not confirmed despite multiple checks. Watchlist pending further evidence.
+5. **Keyera added** — Calgary energy midstream; Workday ATS (keyera.wd10.myworkdayjobs.com); on Built In Calgary; tech/IT roles present.
+
+### Search Source Reliability (Week 2 Update)
+
+- **eluta.ca** — Best source for direct employer career page SWE listings. Produced the most reliable new company discoveries this week (GeoSoftware, Halliburton, TerraSense, ACT Energy, Pleasant Solutions, geoLOGIC).
+- **LinkedIn job search** — Productive for job-level discovery but bot-detection on career page lookups is inconsistent. Best used for job URL confirmation.
+- **Built In Calgary** — Useful for company discovery; limited for job extraction (JS-rendered). Key new finds: Keyera, BMO.
+- **DuckDuckGo** — Consistently bot-blocked this week. Multiple runs returned errors. Not reliable.
+- **Web fetch (direct)** — Works for static careers pages; fails completely for JS-rendered ATS (Workday, iCIMS, Greenhouse custom) which constitute ~90% of known ATS boards.
+
+### Market Observations (Apr 19–25)
+
+- **Calgary SWE market plateued mid-week** — Apr 24 run found 0 new companies and 0 new jobs. Registry appears to be approaching saturation for current sourcing methods.
+- **Energy sector remains the strongest signal** — O&G tech (Quorum, Enverus, GeoSoftware, geoLOGIC, ACT Energy, TerraSense, Halliburton) is the most consistent hiring sector for SWE in Calgary.
+- **Fintech is active** — NDAX (8 roles), Peoples Group, ZayZoon, Alpaca, Neo Financial, Affirm all have active SWE postings.
+- **AI/ML emerging** — Precision AI, TerraSense Analytics, Amplifier Health, BlueMarvel AI all show AI/ML signals in Calgary. Still nascent but growing.
+- **JS-rendered ATS remains the biggest gap** — ~80% of companies can't be scraped via API or static fetch. Browser automation (Playwright) is the only viable path to scalable extraction for Workday/iCIMS/custom boards.
+
+### Data Quality Notes
+
+- **RBC roles from February still posted** — Some roles tracked since early April may be stale. No automatic closure detection in place.
+- **MobSquad jobs in registry** — 4 jobs from Apr 14 (eluta.ca) now likely expired given company domain is defunct. Consider marking as closed in next run.
+- **job posted_date** — Still frequently "unknown" for LinkedIn/BuiltIn sources. Manual extraction not attempted in current workflow.
+
+### Recommended Actions for Week 3
+
+**High Priority:**
+1. **Browser automation for Workday boards** — RBC (5 roles), ATB Financial, TELUS, Keyera all use Workday. Playwright extraction is the single biggest unlock for job freshness.
+2. **Re-check Blackline Safety Corp. and Amplifier Health** — Both on watchlist; confirm whether SWE roles are still active.
+3. **Close expired MobSquad jobs** — 4 jobs in jobs_registry from Apr 14 (eluta.ca) for a company whose domain is now defunct. Mark as closed.
+4. **Seed list expansion** — Add: Suncor Energy, Shell Calgary, Jane Software, Clio direct ATS, Arc'teryx tech, Cenovus, Enbridge.
+
+**Medium Priority:**
+5. **Greenhouse/ATS slug discovery** — For unknown-ATS companies, systematically try known ATS URL patterns (greenhouse, lever, workday, ashby, bamboohr) to find extractable boards.
+6. **RBC job freshness check** — Roles from February are likely stale; verify which are still open.
+7. **Data Engineer inclusion decision** — DE roles are nearly as common as SWE in Calgary; decide whether to include in scope.
+
+**Low Priority:**
+8. **Closed-job detection** — Implement periodic re-check of existing jobs to detect when roles close.
+9. **eluta.ca daily monitoring** — eluta.ca is the most reliable source for new direct employer postings; consider daily vs. weekly cadence.
