@@ -80,33 +80,33 @@ Working notes about employers, ATS quirks, search patterns, and Calgary-market o
 - **DuckDuckGo** — Consistently bot-blocked this week. Multiple runs returned errors. Not reliable.
 - **Web fetch (direct)** — Works for static careers pages; fails completely for JS-rendered ATS (Workday, iCIMS, Greenhouse custom) which constitute ~90% of known ATS boards.
 
-### Market Observations (Apr 19–25)
+### Market Observations (Apr 26–May 2)
 
-- **Calgary SWE market plateued mid-week** — Apr 24 run found 0 new companies and 0 new jobs. Registry appears to be approaching saturation for current sourcing methods.
-- **Energy sector remains the strongest signal** — O&G tech (Quorum, Enverus, GeoSoftware, geoLOGIC, ACT Energy, TerraSense, Halliburton) is the most consistent hiring sector for SWE in Calgary.
-- **Fintech is active** — NDAX (8 roles), Peoples Group, ZayZoon, Alpaca, Neo Financial, Affirm all have active SWE postings.
-- **AI/ML emerging** — Precision AI, TerraSense Analytics, Amplifier Health, BlueMarvel AI all show AI/ML signals in Calgary. Still nascent but growing.
-- **JS-rendered ATS remains the biggest gap** — ~80% of companies can't be scraped via API or static fetch. Browser automation (Playwright) is the only viable path to scalable extraction for Workday/iCIMS/custom boards.
+- **Registry approaching saturation** — Apr 24–May 2 runs consistently found 0–2 new jobs. eluta.ca remains the highest-quality source; LinkedIn is bot-blocked or rate-limited most days.
+- **New companies this week:** De Havilland Aircraft (aerospace, moving HQ to Calgary), Vivid Theory/BigGeo (geospatial SaaS), Capco, VantEdge.
+- **MobSquad domain confirmed defunct** — All pages 404; 4 SWE jobs from Apr 14 marked closed this week.
+- **RBC Feb jobs very stale** — 3 roles from Feb 3/25/26 (Senior SDE, Lead ML Platform, Staff AI Engineer) demoted to existing pending freshness re-check.
+- **Energy sector strongest signal** — O&G tech continues as the most consistent SWE hiring sector in Calgary.
+- **JS-rendered ATS still the biggest gap** — ~80% of boards require browser automation for extraction.
 
 ### Data Quality Notes
 
-- **RBC roles from February still posted** — Some roles tracked since early April may be stale. No automatic closure detection in place.
-- **MobSquad jobs in registry** — 4 jobs from Apr 14 (eluta.ca) now likely expired given company domain is defunct. Consider marking as closed in next run.
+- **MobSquad jobs marked closed** — 4 jobs in jobs_registry (Apr 14 discovery) closed this week; company domain defunct.
+- **RBC Feb jobs demoted to existing** — 3 roles from early-to-mid February (Senior SDE, Lead ML Platform, Staff AI Engineer) are very stale (~3 months old); demoted from `new` to `existing` pending freshness re-check.
 - **job posted_date** — Still frequently "unknown" for LinkedIn/BuiltIn sources. Manual extraction not attempted in current workflow.
 
-### Recommended Actions for Week 3
+### Recommended Actions for Week 4
 
 **High Priority:**
-1. **Browser automation for Workday boards** — RBC (5 roles), ATB Financial, TELUS, Keyera all use Workday. Playwright extraction is the single biggest unlock for job freshness.
+1. **Browser automation for Workday boards** — RBC, ATB Financial, TELUS, Keyera all use Workday. Playwright extraction is the single biggest unlock.
 2. **Re-check Blackline Safety Corp. and Amplifier Health** — Both on watchlist; confirm whether SWE roles are still active.
-3. **Close expired MobSquad jobs** — 4 jobs in jobs_registry from Apr 14 (eluta.ca) for a company whose domain is now defunct. Mark as closed.
-4. **Seed list expansion** — Add: Suncor Energy, Shell Calgary, Jane Software, Clio direct ATS, Arc'teryx tech, Cenovus, Enbridge.
+3. **Seed list expansion** — Add: Suncor Energy, Shell Calgary, Jane Software, Clio, Arc'teryx tech, Cenovus, Enbridge.
+4. **RBC job freshness re-check** — 3 Feb roles likely stale; need browser or direct verification.
 
 **Medium Priority:**
-5. **Greenhouse/ATS slug discovery** — For unknown-ATS companies, systematically try known ATS URL patterns (greenhouse, lever, workday, ashby, bamboohr) to find extractable boards.
-6. **RBC job freshness check** — Roles from February are likely stale; verify which are still open.
-7. **Data Engineer inclusion decision** — DE roles are nearly as common as SWE in Calgary; decide whether to include in scope.
+5. **Greenhouse/ATS slug discovery** — Systematically try known ATS URL patterns for unknown-ATS companies.
+6. **Data Engineer inclusion decision** — DE roles nearly as common as SWE; decide whether to include in scope.
 
 **Low Priority:**
-8. **Closed-job detection** — Implement periodic re-check of existing jobs to detect when roles close.
-9. **eluta.ca daily monitoring** — eluta.ca is the most reliable source for new direct employer postings; consider daily vs. weekly cadence.
+7. **Closed-job detection workflow** — Periodic re-check of existing jobs.
+8. **eluta.ca monitoring cadence** — Most reliable source; consider daily vs. weekly cadence.
