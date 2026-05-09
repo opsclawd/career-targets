@@ -43,4 +43,26 @@ Add: Suncor Energy, Shell Calgary, Jane Software, Arc'teryx tech, Cenovus, Enbri
 
 ---
 
-*Previous weekly review: 2026-04-25*
+## Weekly Review 2026-05-09
+
+### Watchlist Status
+
+- **Blackline Safety Corp.** — Manufacturing SWE last seen Apr 11 (eluta.ca). LinkedIn search this week found no active SWE roles; only Regional Sales Manager US West. Keep on watchlist; if still no SWE confirmation by May 16, move to rejected.
+- **Amplifier Health** — Calgary voice AI healthcare company. HQ confirmed; SWE roles still not confirmed. Keep on watchlist; no further action until more evidence.
+
+### New Watchlist Additions
+None.
+
+### Seed List Expansion Candidates
+Add: **Suncor Energy**, **Jane Software** to companies_seed.csv. Both are Calgary employers not yet in registry.
+
+### Notable This Week
+- **Registry plateau:** Last 3 daily runs (May 5–8) found only 1 net-new job (AMD GPU Primitives). Saturation confirmed.
+- **BigGeo careers page 404:** biggeo.com/careers has been returning 404 since Apr 16. Company still active via Vivid Theory brand.
+- **Capco URL bug:** careers_url in registry points to morganstanley.com; should be capco.com/careers. Flag for next daily run.
+- **Enbridge confirmed:** Technical Lead Full Stack Developer appeared on eluta.ca May 8; company in registry since Apr 18.
+- **Clio confirmed:** Senior Developer Enterprise AI on eluta.ca May 5; in registry since Apr 17.
+
+---
+
+*Previous weekly review: 2026-05-02*
