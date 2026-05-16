@@ -10,39 +10,6 @@ Employers worth prioritizing because they appear to hire relevant Calgary, Alber
 
 ---
 
-## Weekly Review 2026-05-02
-
-### Top Hiring Companies — Active & Growing (as of May 2)
-
-- **Canonical** — 8 roles open, remote-first; highest-volume hirer. Keep monitoring.
-- **NDAX** — 8+ open roles; Workable ATS; Great Place to Work Certified.
-- **Affirm** — 4 roles; aggressive Calgary backend expansion.
-- **MongoDB** — 4 roles; growing Calgary presence.
-- **Quorum Software** — 4 roles; energy SaaS, Calgary hybrid.
-- **RBC** — Workday board (JS-rendered); 3 Feb roles very stale; needs freshness re-check.
-- **AMD** — Staff SDE + GPU roles; significant Calgary presence.
-- **LodgeLink** — Staff SWE; high-seniority signal; SuccessFactors ATS.
-
-### Recently Discovered — Monitor
-
-- **AltaML** — Calgary AI company; evergreen Senior Full Stack SWE on company site.
-- **Orennia** — Energy transition analytics; Data Engineer on Greenhouse; LinkedIn Top Startups Canada 2025.
-- **Peoples Group** — Calgary fintech; SWE IV Payment Services & Fraud role.
-- **Clio** — Cloud legal tech; Senior Systems Engineer.
-- **S&P Global** — Lead Knowledge Engineer Semantic Web in Calgary.
-- **Neo Financial** — Canada's #1 startup per LinkedIn 2024; Calgary HQ.
-- **Keyera** — Energy midstream; Workday ATS; newly added Apr 25.
-
-### Companies to Reject (resolved this week)
-
-- **MobSquad** — Domain defunct (all pages 404); 4 SWE jobs from Apr 14 now closed. → rejected
-
-### Seed List Expansion Candidates
-
-Add: Suncor Energy, Shell Calgary, Jane Software, Arc'teryx tech, Cenovus, Enbridge, Clio.
-
----
-
 ## Weekly Review 2026-05-09
 
 ### Watchlist Status
@@ -65,4 +32,22 @@ Add: **Suncor Energy**, **Jane Software** to companies_seed.csv. Both are Calgar
 
 ---
 
-*Previous weekly review: 2026-05-02*
+## Weekly Review 2026-05-16
+
+### Watchlist Status
+
+- **Blackline Safety Corp.** → **REJECTED** — No SWE roles confirmed in 5+ weeks (last Manufacturing SWE was Apr 11 per eluta.ca). Careers page still active but only showing ops/hardware roles (Reliability Engineer/Specialist as of May 16 check). Company has shifted away from software engineering hiring. Removed from watchlist and added to rejected.
+
+- **Amplifier Health** — Calgary voice AI healthcare company. HQ confirmed; SWE roles still not confirmed. Keep on watchlist; no further action until more evidence.
+
+### Seed List Expansion Candidates
+Add: **Suncor Energy**, **Shell Canada (Calgary)**, **Jane Software** to companies_seed.csv. All three are Calgary employers not yet in registry.
+
+### Careers Pages Flagged This Week
+- **BigGeo** — careers page at biggeo.com/careers returns 404 since Apr 16. Company still active via Vivid Theory brand on eluta.ca. Status updated to `stale`.
+- **Helcim Inc.** — careers page Cloudflare-blocked; jobs found via eluta.ca only. Keep entry as-is.
+- **GeoSoftware** and **TerraSense Analytics** — last checked Apr 19; verify still active next week.
+
+---
+
+*Previous weekly review: 2026-05-09*
