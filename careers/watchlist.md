@@ -32,6 +32,22 @@ Add: **Suncor Energy**, **Jane Software** to companies_seed.csv. Both are Calgar
 
 ---
 
+## Weekly Review 2026-05-30
+
+### Watchlist Status
+
+- **Amplifier Health** → **REJECTED** — No SWE roles confirmed in 6+ weeks (multiple checks since Apr 23). Calgary voice AI healthcare company with confirmed HQ. SWE roles never confirmed despite repeated checks. Company is no longer actively hiring SWE in Calgary. Removed from watchlist, added to rejected.
+
+### Seed List Expansion Candidates
+Add: **Suncor Energy**, **Shell Canada (Calgary)**, **Jane Software** to companies_seed.csv. All three are Calgary employers not yet in registry.
+
+### Careers Pages Flagged This Week
+- **BigGeo** — careers page at biggeo.com/careers returns 404 since Apr 16. Company still active via Vivid Theory brand on eluta.ca. Status remains `stale`.
+- **North Vector Dynamics** — Ashby board at jobs.ashbyhq.com/northvectordynamics returns no parseable job content (blank/404 on embed). SWE roles unconfirmed. Company may not be actively hiring via the board.
+- **GeoSoftware** and **TerraSense Analytics** — re-checked May 30; both still active. last_checked updated to 2026-05-30.
+
+---
+
 ## Weekly Review 2026-05-16
 
 ### Watchlist Status

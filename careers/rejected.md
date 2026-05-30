@@ -34,3 +34,10 @@ Employers or pages that should be deprioritized or excluded.
 ### Occupational Health (occupationalhealth.ca/careers)
 **Reason:** DNS failure; company is not a technology or software employer (occupational health clinic context). No relevant SWE roles.
 **Action:** Reject permanently. Not a software company.
+---
+
+## Weekly Review 2026-05-30 Additions
+
+### Amplifier Health
+**Reason:** No SWE roles confirmed in 6+ weeks (multiple checks since Apr 23). Calgary voice AI healthcare company with confirmed HQ. SWE roles never confirmed despite repeated checks. Company is no longer actively hiring SWE in Calgary.
+**Action:** Reject permanently.
