@@ -3,7 +3,6 @@ The I.T. Company,https://theitcompany.ca/careers,unknown,discovered,2026-04-16,a
 Benevity,https://benevity.com/join-the-team,greenhouse,seed,2026-04-18,active,"Calgary-based, tech for good; Greenhouse API confirmed; no senior SWE roles found this run"
 Symend,https://www.symend.com/company/careers,custom,seed,2026-04-18,rejected,"Greenhouse board decommissioned; no ATS found; no SWE roles confirmed via search"
 Village Trust,https://villagetrust.com/careers,unknown,seed,2026-04-18,rejected,"DNS failure 7+ days; company appears defunct or renamed"
-Canadian Pacific Kansas City,https://careers.cpr.ca/,custom,seed,2026-04-18,active,"Major rail company; ATS type unconfirmed (not Greenhouse); job listings are JS-rendered; Information Systems category may have tech roles"
 ATB Financial,https://www.atb.com/company/careers/,custom,seed,2026-04-18,active,"Alberta bank; redirects to careers.atb.com; Workday likely; JS-rendered"
 Occupational Health,https://occupationalhealth.ca/careers,unknown,seed,2026-04-18,rejected,"DNS failure; not a tech/software employer"
 Granite Solutions,https://granitesolutions.ca/careers,unknown,seed,2026-04-10,rejected,"Stone/masonry company, not software; permanently rejected 2026-04-11"
@@ -94,7 +93,7 @@ BMO Financial Group,https://jobs.bmo.com/en_US/careers,workday,discovered,2026-0
 Convverge,https://www.convverge.com,unknown,discovered,2026-04-27,active,"Calgary-based IT consulting (Microsoft Solutions Partner); Software Developer role on LinkedIn (2 weeks ago); Calgary HQ"
 KPMG Canada,https://kpmg.com/ca/en/careers,unknown,discovered,2026-04-27,active,"Major accounting/consulting firm; .NET Developer AI & Agent Enablement in Calgary on LinkedIn (2 hours ago); JS-rendered"
 Nutrien,https://www.nutrien.com/careers,successfactors,discovered,2026-04-27,active,"Major Calgary-based agribusiness; Tech and IT category; Integrator Software Developer Co-op in Calgary on LinkedIn (3 days ago); SuccessFactors ATS"
-Canadian Pacific Kansas City,https://careers.cpr.ca/,custom,seed,2026-05-13,active,"Updated 2026-05-13: +Senior Specialist SWE Custom Solution (6 days ago); Mainframe SWE (12-month term, posted Apr 23) still active"
+Canadian Pacific Kansas City,https://careers.cpr.ca/,custom,seed,2026-06-06,active,"Major rail company; ATS unconfirmed (not Greenhouse); JS-rendered; 3 active SWE roles: Senior Specialist SWE Custom Solution, Specialist Software Cloud Developer (ETL/Cloud, 19h ago), SAP BW-ABAP Developer (fixed term)"
 
 Circle Cardiovascular Imaging Inc.,https://www.eluta.ca/jobs-at-circle-cardiovascular-imaging,eluta,discovered,2026-04-28,active,"Calgary-based cardiac MRI imaging software company; CVI42 market leader; multiple ML/SWE roles on eluta.ca"
 Arcobi,https://www.arcobi.com,unknown,discovered,2026-04-28,active,"Energy intelligence SaaS (formerly Arcus Power); Calgary HQ at 401 9th Ave SW; Senior Infrastructure Engineer and Senior Full-Stack Engineer on LinkedIn"
@@ -108,7 +107,7 @@ Helcim Inc.,https://www.helcim.com/careers,unknown,discovered,2026-04-30,active,
 Promise Robotics Inc.,https://promiserobotics.com/careers,unknown,discovered,2026-04-30,active,"Calgary-based construction tech/robotics automation; Manager, Software Development on eluta; 14+ days"
 Equinox Engineering Ltd.,https://www.equinoxeng.com/careers,unknown,discovered,2026-04-30,active,"Calgary-based engineering firm; AI Automation Developer on eluta (8 days ago); careers page redirects to /lander"
 Millennium EMS Solutions Ltd.,https://www.millenniumems.com,unknown,discovered,2026-04-30,active,"Calgary-based environmental consulting; Intermediate Software Developer (C#/.NET/Azure/Blazor) on eluta; 14+ days"
-STARS (Shock Trauma Air Rescue Service),https://www.stars.ca/careers,unknown,discovered,2026-04-30,active,"Calgary-based air ambulance service; Senior Full Stack Developer on eluta; 14+ days; Node.js/TypeScript/React/.NET stack"
+STARS (Shock Trauma Air Rescue Service),https://www.stars.ca/careers,unknown,discovered,2026-06-06,active,"Calgary-based air ambulance service; Senior Full Stack Developer on eluta (6h ago); Node.js/TypeScript/React/.NET stack"
 VantEdge,https://www.vantedge.com/careers,unknown,discovered,2026-05-01,active,"Calgary logistics/terminal automation SaaS; Intermediate/Senior Software Engineer in Calgary on LinkedIn (1 day ago); Cloud-based platform Wheelhouse + TerminalBOSS + Conformii products"
 Capco,https://www.capco.com/careers,unknown,discovered,2026-05-01,active,"Management/technology consulting (financial services focus); NodeJS/Java Developer in Calgary on LinkedIn (1 day ago); part of Morgan Stanley ecosystem"
 
@@ -137,4 +136,5 @@ Vista Projects Limited,https://www.vistaprojects.com/careers,unknown,discovered,
 Octave (OSIsoft/Asset Lifecycle Software),https://www.octave.com/careers,unknown,discovered,2026-06-04,active,"Global operations/asset lifecycle software (NASDAQ: OCTV, ~7200 employees, 45 countries); HQ Madison AL with Calgary office; Software Developer role in Calgary on LinkedIn (6d ago)"
 Digital Shout Corp.,https://www.digitalshout.ai,unknown,discovered,2026-06-04,active,"Okotoks AB (Calgary area) marketing/AI tech firm; Senior Software Developer - Web Development on eluta.ca (2d ago); WordPress/custom dev focus; founded 2019"
 Payworks Inc.,https://www.payworks.ca/about-us/careers,unknown,discovered,2026-06-04,active,"Calgary-based payroll/HR SaaS (TOP EMPLOYER); Technical Lead, Development on eluta.ca (12d ago); no ATS job board visible on careers page; culture-focused page"
-mdf commerce Inc. (SOVRA),https://www.eluta.ca/jobs-at-mdf-commerce?imo=12,eluta,discovered,2026-06-05,active,"Public procurement SaaS platform (SOVRA brand); HQ Longueuil QC with Calgary AB office; Senior Software Developer (Python/AI coding/Cursor, ETL focus) on eluta.ca (23h ago); ~500 employees internationally"
+mdf commerce Inc. (SOVRA),https://www.eluta.ca/jobs-at-mdf-commerce?imo=12,eluta,discovered,2026-06-06,active,"Public procurement SaaS platform (SOVRA brand); HQ Longueuil QC with Calgary AB office; Senior Software Developer (Python/AI coding/Cursor, ETL focus) on eluta.ca; ~500 employees internationally"
+Netcracker Technology,https://www.netcracker.com/careers,unknown,discovered,2026-06-06,active,"Calgary-based telecom/network software company (NEC subsidiary); Senior Software Engineer in Calgary on Built In Calgary (20d ago); Built In Calgary confirmed"
