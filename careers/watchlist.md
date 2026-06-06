@@ -66,4 +66,22 @@ Add: **Suncor Energy**, **Shell Canada (Calgary)**, **Jane Software** to compani
 
 ---
 
+## Weekly Review 2026-06-06
+
+### Watchlist Status
+
+**Current watchlist: 0 companies** (unchanged from May 30).
+
+North Vector Dynamics remains unresolved — Ashby board has never returned parseable job content; SWE roles never confirmed despite multiple checks. Recommend marking rejected next week if no SWE confirmation received.
+
+### Seed List Gap
+Three companies added to seed May 30 have not yet appeared in registry: **Suncor Energy**, **Shell Canada (Calgary)**, **Jane Software**. Monitor next week; add manually if not sourced by Jun 13.
+
+### Notable This Week
+- **STARS re-posted** — Senior Full Stack Developer fresh (6h ago); original 14+ day posting replaced with new listing
+- **CPKC still active** — 3 confirmed SWE roles; Mainframe SWE and Analyst SWE - Advanced Train Control not showing in recent eluta sweeps (may be closed)
+- **Noise entries flagged** — Enverus Sales Development Representative and NDAX Product Manager in jobs_registry are non-SWE; to be marked closed
+
+---
+
 *Previous weekly review: 2026-05-09*
