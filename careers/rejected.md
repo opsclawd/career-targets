@@ -41,3 +41,13 @@ Employers or pages that should be deprioritized or excluded.
 ### Amplifier Health
 **Reason:** No SWE roles confirmed in 6+ weeks (multiple checks since Apr 23). Calgary voice AI healthcare company with confirmed HQ. SWE roles never confirmed despite repeated checks. Company is no longer actively hiring SWE in Calgary.
 **Action:** Reject permanently.
+
+## Weekly Review 2026-06-13 Additions
+
+### BigGeo (biggeo.com/careers)
+**Reason:** Careers page returns 404 since Apr 16 (7+ weeks). Company remains active via Vivid Theory brand on eluta.ca, which is already in the registry as a separate entry. No ATS alternative found.
+**Action:** Reject permanently. Vivid Theory Inc. (BigGeo) entry already covers this company's Calgary SWE roles.
+
+### North Vector Dynamics (jobs.ashbyhq.com/northvectordynamics)
+**Reason:** Ashby board has never returned parseable job content (blank/404 on embed). SWE roles never confirmed despite multiple checks since May 5. No ATS alternative found and no other evidence of active SWE hiring in Calgary.
+**Action:** Reject permanently.

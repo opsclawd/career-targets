@@ -85,3 +85,22 @@ Three companies added to seed May 30 have not yet appeared in registry: **Suncor
 ---
 
 *Previous weekly review: 2026-05-09*
+---
+
+## Weekly Review 2026-06-13
+
+### Watchlist Status
+
+**Current watchlist: 0 companies** (unchanged from Jun 6).
+
+### Seed List Expansion Candidates
+None new this week. Three candidates from May 30 (Suncor Energy, Shell Canada, Jane Software) have been added to the registry this week.
+
+### Notable This Week
+- **BigGeo rejected** — careers page 404 since Apr 16; Vivid Theory entry already covers this company's Calgary SWE roles.
+- **North Vector Dynamics rejected** — Ashby board never returned parseable content; SWE roles never confirmed across multiple runs.
+- **Seed promotion lag** — Suncor, Shell, and Jane sat in seed file for 2+ weeks before being promoted. Flag for process improvement.
+
+---
+
+*Previous weekly review: 2026-06-06*

@@ -110,3 +110,21 @@ Working notes about employers, ATS quirks, search patterns, and Calgary-market o
 **Low Priority:**
 7. **Closed-job detection workflow** — Periodic re-check of existing jobs.
 8. **eluta.ca monitoring cadence** — Most reliable source; consider daily vs. weekly cadence.
+---
+
+## Weekly Review 2026-06-13
+
+### Seed Promotion Lag Observation
+Three companies (Suncor Energy, Shell Canada, Jane Software) were flagged as seed candidates on May 30 but not added to `careers_registry.csv` until Jun 13 — a 2+ week gap. This is the first time a seed candidate took this long to be promoted. Consider a faster cadence for seed → registry promotion, or a monthly seed audit.
+
+### North Vector Dynamics — Ashby Board Pattern
+Ashby boards appear to block direct scraping/embedding. North Vector Dynamics is the second Ashby-hosted company to fail (first was Samsara, which resolved via Built In Calgary). When an Ashby board returns blank/404 on embed, rejection is appropriate if no other job source confirms SWE roles.
+
+### Registry Size at Jun 13
+~100 companies in careers_registry. Saturation confirmed — daily runs since Jun 8 have found 0 net-new companies. Incremental growth will come from: (1) seed list expansion, (2) new Calgary entrants, (3) companies that change ATS.
+
+### Recommended Actions for Week of Jun 13
+1. **Verify Suncor Energy, Shell Canada, Jane Software** — confirm careers pages are live and check for active SWE roles.
+2. **Seed list refresh** — audit seed file for other Calgary-area employers not yet in registry.
+3. **North Vector Dynamics** — rejected this week; no further action unless company surfaces via a new ATS.
+4. **eluta.ca as primary source** — continues to be the most reliable source for new discoveries; LinkedIn bot-detection remains a blocker.
