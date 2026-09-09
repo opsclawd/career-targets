@@ -1,7 +1,7 @@
 company,careers_url,ats_type,source,last_checked,status,notes
 The I.T. Company,https://theitcompany.ca/careers,unknown,discovered,2026-04-16,active,"Airdrie AB (Calgary area) IT/software company; Intermediate Software Engineer on LinkedIn"
 Benevity,https://benevity.com/join-the-team,greenhouse,seed,2026-04-18,active,"Calgary-based, tech for good; Greenhouse API confirmed; no senior SWE roles found this run"
-Symend,https://www.symend.com/company/careers,custom,seed,2026-04-18,rejected,"Greenhouse board decommissioned; no ATS found; no SWE roles confirmed via search"
+Symend,https://www.symend.com/company/careers,eluta,builtincalgary,2026-09-09,active,"Calgary-based fintech (digital engagement/recovery); eluta ATS board confirmed; Senior SWE and Intermediate/Senior Product Engineer roles active (Sep 2026)"
 Village Trust,https://villagetrust.com/careers,unknown,seed,2026-04-18,rejected,"DNS failure 7+ days; company appears defunct or renamed"
 ATB Financial,https://www.atb.com/company/careers/,custom,seed,2026-04-18,active,"Alberta bank; redirects to careers.atb.com; Workday likely; JS-rendered"
 Occupational Health,https://occupationalhealth.ca/careers,unknown,seed,2026-04-18,rejected,"DNS failure; not a tech/software employer"
@@ -203,3 +203,5 @@ MaKami College,https://www.eluta.ca/jobs-at-makami-college?imo=12,eluta,discover
 Infosys Ltd.,https://www.infosys.com/careers,unknown,discovered,2026-09-06,active,"Global IT services firm (NYSE: WIT, ~260k employees); Calgary AB office; Technology Lead Informatica Developer ($92K-$123K) and AI Technical Lead on eluta.ca; eluta ATS"
 Calian Group Ltd.,https://www.calian.com/careers,unknown,discovered,2026-09-06,active,"Diversified Canadian company (TSX: CGX); Calgary office; Intermediate Product Tester (Python, C#/WPF) on eluta.ca; serves energy/mining/power sectors"
 Modular Solutions,https://www.modular.com/careers,unknown,discovered,2026-09-06,active,"Calgary-based company; Data Migration Automation Developer (SQL, PostgreSQL, Snowflake, ETL/ELT) and Product Owner on eluta.ca; remote ok"
+
+MISTRAS Group Inc. (Onstream Division),https://www.eluta.ca/jobs-at-mistras-group?imo=12,eluta,discovered,2026-09-09,active,"Global non-destructive testing (NDT) company (NYSE: MG); Onstream division supports pipeline inspection software/data analysis platforms; Software Development Manager on eluta (15h ago) for pipeline inspection software products; Calgary AB"
