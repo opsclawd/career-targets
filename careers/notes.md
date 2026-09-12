@@ -128,3 +128,22 @@ Ashby boards appear to block direct scraping/embedding. North Vector Dynamics is
 2. **Seed list refresh** — audit seed file for other Calgary-area employers not yet in registry.
 3. **North Vector Dynamics** — rejected this week; no further action unless company surfaces via a new ATS.
 4. **eluta.ca as primary source** — continues to be the most reliable source for new discoveries; LinkedIn bot-detection remains a blocker.
+
+---
+
+## Weekly Review 2026-09-12
+
+### Symend Reactivation
+Symend was rejected 2026-04-25 when its Greenhouse board went dark. As of Sep 9, 2026 it has returned via eluta.ca with 2 active SWE roles (Senior SWE, Intermediate/Senior Product Engineer). Greenhouse decommission was a platform issue, not company failure. Symend is now active in registry; removed from rejected.md.
+
+### Persistent Stale Jobs Issue
+April 2026 job listings (80+ entries) remain marked `new` in jobs_registry with no closed status — 5+ months stale. A bulk refresh/close pass is needed. Either close obvious stale entries or implement a freshness policy (jobs with no update in 60 days → mark existing).
+
+### Stale Careers Pages Flagged Sep 12
+- **Viridien** (viridien.com/en) — 404; verify via Built In Calgary
+- **Orion Steel Group** (orionsteels.com) — 404; jobs only on eluta
+- **Steel Reef / SRIC** (steelreef.com) — DNS issue Aug 16; still has eluta jobs
+
+### Noise Patterns in jobs_registry
+- Precision AI typo URL `precisionai.ai.ai` (double .ai extension) — 2 jobs affected; need closure
+- Capco NodeJS/Java Developer has `morganstanley.com/careers` in careers_url field — should be `capco.com/careers`

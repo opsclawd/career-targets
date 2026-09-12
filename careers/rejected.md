@@ -23,9 +23,10 @@ Employers or pages that should be deprioritized or excluded.
 
 ## Weekly Review 2026-04-25 Additions
 
-### Symend (symend.com/company/careers)
-**Reason:** Greenhouse board (boards.greenhouse.io/symend) is decommissioned (404). Careers page is marketing-only with no ATS job listings. No alternate ATS found despite multiple search attempts. No SWE roles confirmed via search.
-**Action:** Reject permanently. If company relocates to a new ATS, re-evaluate from scratch.
+### Symend (symend.com/company/careers) — REACTIVATED
+**Original reason (2026-04-25):** Greenhouse board (boards.greenhouse.io/symend) was decommissioned (404). Careers page was marketing-only with no ATS job listings. No alternate ATS found.
+**Current status (2026-09-12):** Company reappeared on eluta.ca with 2 active SWE roles (Senior SWE, Intermediate/Senior Product Engineer, Sep 4–9 2026). Rejection overturned — Symend is now active via eluta ATS.
+**Action:** Remove from rejected list; careers_registry already reflects active status.
 
 ### Village Trust (villagetrust.com/careers)
 **Reason:** DNS failure for 7+ days. Company appears defunct or has been renamed. Calgary fintech/insurtech with no active web presence.
