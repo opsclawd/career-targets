@@ -14,8 +14,8 @@ https://www.stackadapt.com/careers,StackAdapt,Software Engineer Backend,Calgary 
 https://canonical.com/careers,Canonical,Software Engineer 3 - Cloud Payments,Calgary AB,2026-04-08,2026-04-15,LinkedIn,linkedin.com,new
 https://canonical.com/careers,Canonical,Software Engineer - Python - Ubuntu Pro client (graduate),Calgary AB,unknown,2026-04-15,LinkedIn,linkedin.com,new
 https://canonical.com/careers,Canonical,Software Engineer - Cloud Images,Calgary AB,2026-04-11,2026-04-15,LinkedIn,linkedin.com,new
-https://canonical.com/careers,Canonical,Junior Ubuntu Software Engineer,Calgary AB,2026-04-11,2026-04-15,LinkedIn,linkedin.com,new
-https://canonical.com/careers,Canonical,Junior Software Developer - Observability,Calgary AB,unknown,2026-04-15,LinkedIn,linkedin.com,new
+https://canonical.com/careers,Canonical,Junior Ubuntu Software Engineer,Calgary AB,2026-04-11,2026-04-15,LinkedIn,linkedin.com,filtered_out
+https://canonical.com/careers,Canonical,Junior Software Developer - Observability,Calgary AB,unknown,2026-04-15,LinkedIn,linkedin.com,filtered_out
 https://www.theice.com/careers,ICE (Intercontinental Exchange),Developer,Calgary AB,2026-04-14,2026-04-15,LinkedIn,linkedin.com,new
 https://fullscript.com/careers,Fullscript,Senior Developer Backend - Patient Experience,Calgary AB,unknown,2026-04-15,LinkedIn,linkedin.com,new
 https://www.wagepoint.com/careers/,Wagepoint,Staff Software Engineer,Calgary AB,unknown,2026-04-15,LinkedIn,linkedin.com,new
@@ -189,7 +189,7 @@ https://www.linkedin.com/jobs/credivera-senior-full-stack-developer,Credivera,Se
 https://www.linkedin.com/jobs/thrive-health-staff-software-developer-calgary,Thrive Health,Staff Software Developer,Calgary AB,unknown,2026-05-25,LinkedIn,thrive.health,new
 https://www.linkedin.com/jobs/optave-python-infra-developer,Optave,Python & Infra Developer (Terraform & AWS),Calgary AB,unknown,2026-05-25,LinkedIn,optave.com,new
 https://www.linkedin.com/jobs/tiller-digital-intermediate-front-end-developer,Tiller Digital,Intermediate Front-End Developer,Calgary AB,unknown,2026-05-25,LinkedIn,tillerdigital.com,new
-https://www.eluta.ca/jobs-at-pbs-systems,PBS Systems Inc.,Junior Software Developer,Calgary AB,2026-05-26,2026-05-27,eluta.ca,pbs-systems.com,new
+https://www.eluta.ca/jobs-at-pbs-systems,PBS Systems Inc.,Junior Software Developer,Calgary AB,2026-05-26,2026-05-27,eluta.ca,pbs-systems.com,filtered_out
 https://www.eluta.ca/jobs-at-neo-financial-technologies,Neo Financial Technologies Inc.,Manager/Lead Software Development,Calgary AB,2026-05-13,2026-05-27,eluta.ca,neofinancial.com,new
 https://www.eluta.ca/jobs-at-neo-financial-technologies,Neo Financial Technologies Inc.,Director Software Development,Calgary AB,2026-05-13,2026-05-27,eluta.ca,neofinancial.com,new
 https://www.eluta.ca/jobs-at-geologic-systems,geoLOGIC Systems Ltd.,Senior Software Developer,Calgary AB,2026-05-26,2026-05-27,eluta.ca,geologic.com,new
@@ -278,7 +278,7 @@ https://www.eluta.ca/search?q=subnet+solutions+calgary+software+developer,SUBNET
 https://www.eluta.ca/jobs-at-neo-financial-technologies?imo=12,Neo Financial Technologies Inc.,Senior/Staff/Principal Software Developer,Calgary AB,2026-07-04,2026-07-05,eluta.ca,www.neofinancial.com/company/careers,new
 
 https://www.eluta.ca/jobs-at-dv8-energy,DV8 Energy Inc.,Software Engineer,Calgary AB,2026-07-09,2026-07-10,eluta.ca,eluta.ca,new
-https://www.eluta.ca/jobs-at-dv8-energy,DV8 Energy Inc.,Junior Embedded IoT Edge Software Developer,Calgary AB,2026-07-09,2026-07-10,eluta.ca,eluta.ca,new
+https://www.eluta.ca/jobs-at-dv8-energy,DV8 Energy Inc.,Junior Embedded IoT Edge Software Developer,Calgary AB,2026-07-09,2026-07-10,eluta.ca,eluta.ca,filtered_out
 https://www.eluta.ca/jobs-at-dv8-energy,DV8 Energy Inc.,Jr Software Developer,Calgary AB,2026-07-09,2026-07-10,eluta.ca,eluta.ca,new
 https://www.eluta.ca/jobs-at-mnp,MNP LLP,Senior Test Automation Developer,Calgary AB,2026-07-07,2026-07-10,eluta.ca,eluta.ca,new
 https://www.eluta.ca/jobs-at-mnp,MNP LLP,Senior Back-End Developer Innovation Development,Calgary AB,2026-06-26,2026-07-10,eluta.ca,eluta.ca,new
@@ -302,7 +302,7 @@ https://www.eluta.ca/jobs-at-lodgelink?imo=12,LodgeLink Inc.,Software Engineer I
 https://www.eluta.ca/jobs-at-lodgelink?imo=12,LodgeLink Inc.,Software Engineer in Test II,Calgary AB,2026-07-22,2026-07-23,eluta.ca,lodgelink.com,new
 https://www.eluta.ca/jobs-at-bmo?imo=12,BMO Financial Group,GenAI Software Developer,Calgary AB,2026-07-22,2026-07-23,eluta.ca,bmo.com,new
 https://www.eluta.ca/jobs-at-millennium-ems-solutions?imo=12,Millennium EMS Solutions Ltd.,Senior Software Developer,Calgary AB,2026-07-21,2026-07-23,eluta.ca,millenniumems.com,new
-https://www.eluta.ca/jobs-at-calgary-sports-and-entertainment-corporation?imo=12,Calgary Sports and Entertainment Corporation (CSEC),Junior Developer,Calgary AB,2026-07-23,2026-07-27,eluta.ca,eluta.ca,new
+https://www.eluta.ca/jobs-at-calgary-sports-and-entertainment-corporation?imo=12,Calgary Sports and Entertainment Corporation (CSEC),Junior Developer,Calgary AB,2026-07-23,2026-07-27,eluta.ca,eluta.ca,filtered_out
 https://www.eluta.ca/jobs-at-rbc?imo=12,Royal Bank of Canada,Staff Software Engineer - RBC Borealis AI Platform,Calgary AB,2026-07-25,2026-07-29,eluta.ca,jobs.rbc.com/ca/en/,new
 https://www.eluta.ca/jobs-at-garmin-canada?imo=12,Garmin Canada Inc.,DevOps Software Engineer,Cochrane AB,2026-07-26,2026-07-29,eluta.ca,garmin.com,new
 https://www.eluta.ca/jobs-at-altaml?imo=12,AltaML Inc.,Intermediate Full Stack Software Engineer,Calgary AB,2026-07-28,2026-07-29,eluta.ca,altaml.com,new
@@ -387,7 +387,7 @@ https://www.eluta.ca/jobs-at-mnp,MNP LLP,Full Stack Software Engineer,Calgary AB
 https://www.eluta.ca/jobs-at-brookfield-properties,Brookfield Properties,"Sr. Software Engineer (6 Month Contract)",Calgary AB,2026-08-26,2026-08-27,eluta.ca,eluta.ca,new
 https://www.eluta.ca/jobs-at-canada-west-land-services,Canada West Land Services Ltd.,Senior Full Stack Developer,Calgary AB,2026-08-28,2026-08-31,eluta.ca,eluta.ca,new
 https://www.eluta.ca/jobs-at-amd?imo=12,AMD Canada,Short Term 2027 Software Engineering Intern/Co-Op,Calgary AB,2027-01-11 to 2027-04-23,2026-09-01,eluta.ca,amd.com,closed
-https://www.eluta.ca/jobs-at-amd?imo=12,AMD Canada,Summer 2027 Long Term Software Engineering Intern/Co-op,Calgary AB,2027-05-03 to 2027-04-21,2026-09-01,eluta.ca,amd.com,new
+https://www.eluta.ca/jobs-at-amd?imo=12,AMD Canada,Summer 2027 Long Term Software Engineering Intern/Co-op,Calgary AB,2027-05-03 to 2027-04-21,2026-09-01,eluta.ca,amd.com,filtered_out
 https://www.eluta.ca/jobs-at-novatel?imo=12,NovAtel Inc. (Hexagon),Software Release Manager,Calgary AB,2026-09-01,2026-09-02,eluta.ca,eluta.ca,new
 https://www.eluta.ca/jobs-at-circle-cardiovascular-imaging?imo=12,Circle Cardiovascular Imaging Inc.,Software QA Analyst (2026-032),Calgary AB,2026-09-01,2026-09-02,eluta.ca,eluta.ca,new
 https://www.eluta.ca/jobs-at-circle-cardiovascular-imaging?imo=12,Circle Cardiovascular Imaging Inc.,Senior Research Software Developer (2026-033),Calgary AB,2026-09-01,2026-09-02,eluta.ca,eluta.ca,new
@@ -406,10 +406,10 @@ https://www.eluta.ca/jobs-at-halliburton-energy?imo=12,Halliburton Energy Servic
 https://www.eluta.ca/jobs-at-halliburton-energy?imo=12,Halliburton Energy Services,Senior Software Engineer - Landmark,Calgary AB,2026-09-04,2026-09-04,eluta.ca,careers.halliburton.com,new
 https://www.eluta.ca/jobs-at-halliburton-energy?imo=12,Halliburton Energy Services,Senior Software Engineering Lead - Landmark,Calgary AB,2026-09-04,2026-09-04,eluta.ca,careers.halliburton.com,new
 https://www.eluta.ca/jobs-at-halliburton-energy?imo=12,Halliburton Energy Services,Software Engineering Lead - Landmark,Calgary AB,2026-09-04,2026-09-04,eluta.ca,careers.halliburton.com,new
-https://www.eluta.ca/jobs-at-novatel?imo=12,NovAtel Inc. (Hexagon),Software Engineering Intern,Calgary AB,2027-05-03 to 2027-05-02,2026-09-04,eluta.ca,eluta.ca,new
-https://www.eluta.ca/jobs-at-novatel?imo=12,NovAtel Inc. (Hexagon),Software Test Engineering Intern,Calgary AB,2027-05-03 to 2027-05-01,2026-09-04,eluta.ca,eluta.ca,new
+https://www.eluta.ca/jobs-at-novatel?imo=12,NovAtel Inc. (Hexagon),Software Engineering Intern,Calgary AB,2027-05-03 to 2027-05-02,2026-09-04,eluta.ca,eluta.ca,filtered_out
+https://www.eluta.ca/jobs-at-novatel?imo=12,NovAtel Inc. (Hexagon),Software Test Engineering Intern,Calgary AB,2027-05-03 to 2027-05-01,2026-09-04,eluta.ca,eluta.ca,filtered_out
 https://www.eluta.ca/jobs-at-lodgelink?imo=12,LodgeLink Inc.,Senior Software Engineer (Back-end Focus),Calgary AB,2026-09-03,2026-09-04,eluta.ca,lodgelink.com,new
-https://www.eluta.ca/jobs-at-amd?imo=12,AMD Canada,Short Term 2027 Software Engineering Intern/Co-Op,Calgary AB,2027-01-11 to 2027-04-23,2026-09-04,eluta.ca,amd.com,new
+https://www.eluta.ca/jobs-at-amd?imo=12,AMD Canada,Short Term 2027 Software Engineering Intern/Co-Op,Calgary AB,2027-01-11 to 2027-04-23,2026-09-04,eluta.ca,amd.com,filtered_out
 https://www.eluta.ca/search?l=calgary&q=infosys,Infosys Ltd.,Technology Lead - Informatica Developer,Calgary AB,2026-09-06,2026-09-06,eluta.ca,infosys.com,new
 https://www.eluta.ca/search?l=calgary&q=infosys,Infosys Ltd.,AI Technical Lead,Calgary AB,2026-09-06,2026-09-06,eluta.ca,infosys.com,new
 https://www.eluta.ca/search?l=calgary&q=modular+solutions,Modular Solutions,Data Migration Automation Developer,Calgary AB (Remote),2026-09-06,2026-09-06,eluta.ca,modular.com,new
@@ -447,15 +447,15 @@ https://www.eluta.ca/jobs-at-mobsquad?imo=12,MobSquad,Senior Front-End Engineer,
 https://www.eluta.ca/jobs-at-hcl-technologies?imo=12,HCLTech,Senior Technical Lead .Net C# Angular,Airdrie AB,2026-09-09,2026-09-20,eluta.ca,hcltech.com,new
 https://www.eluta.ca/jobs-at-enbridge?imo=12,Enbridge,Specialist Technology Information System Software Product Development,Calgary AB,2026-09-16,2026-09-20,eluta.ca,enbridge.com,new
 https://www.eluta.ca/jobs-at-homewood-health?imo=12,Homewood Health,Senior Architect - Engineering,Calgary AB,2026-09-15,2026-09-20,eluta.ca,homewoodhealth.com,new
-https://www.eluta.ca/jobs-at-pason-systems?imo=12,Pason Systems Corp.,Software Developer Intern (Rigsite),Calgary AB,2027-05-01 to 2028-08-01,2026-09-22,eluta.ca,eluta.ca,new
-https://www.eluta.ca/jobs-at-pason-systems?imo=12,Pason Systems Corp.,Software Developer Intern (Enterprise Applications),Calgary AB,2027-05-01 to 2028-08-01,2026-09-22,eluta.ca,eluta.ca,new
-https://www.eluta.ca/jobs-at-pason-systems?imo=12,Pason Systems Corp.,Software Developer Intern (DataHub),Calgary AB,2027-05-01 to 2028-08-01,2026-09-22,eluta.ca,eluta.ca,new
-https://www.eluta.ca/jobs-at-pason-systems?imo=12,Pason Systems Corp.,Software Developer Intern (IWS),Calgary AB,2027-05-01 to 2028-08-01,2026-09-22,eluta.ca,eluta.ca,new
-https://www.eluta.ca/jobs-at-pason-systems?imo=12,Pason Systems Corp.,Software Developer Intern (Quality Assurance),Calgary AB,2027-05-01 to 2028-08-01,2026-09-22,eluta.ca,eluta.ca,new
+https://www.eluta.ca/jobs-at-pason-systems?imo=12,Pason Systems Corp.,Software Developer Intern (Rigsite),Calgary AB,2027-05-01 to 2028-08-01,2026-09-22,eluta.ca,eluta.ca,filtered_out
+https://www.eluta.ca/jobs-at-pason-systems?imo=12,Pason Systems Corp.,Software Developer Intern (Enterprise Applications),Calgary AB,2027-05-01 to 2028-08-01,2026-09-22,eluta.ca,eluta.ca,filtered_out
+https://www.eluta.ca/jobs-at-pason-systems?imo=12,Pason Systems Corp.,Software Developer Intern (DataHub),Calgary AB,2027-05-01 to 2028-08-01,2026-09-22,eluta.ca,eluta.ca,filtered_out
+https://www.eluta.ca/jobs-at-pason-systems?imo=12,Pason Systems Corp.,Software Developer Intern (IWS),Calgary AB,2027-05-01 to 2028-08-01,2026-09-22,eluta.ca,eluta.ca,filtered_out
+https://www.eluta.ca/jobs-at-pason-systems?imo=12,Pason Systems Corp.,Software Developer Intern (Quality Assurance),Calgary AB,2027-05-01 to 2028-08-01,2026-09-22,eluta.ca,eluta.ca,filtered_out
 https://builtincalgary.org/company/cloudbeds/jobs,Cloudbeds,Backend Engineer (AI Platform Services),Remote Canada (Calgary AB office),2026-09-22,2026-09-24,Built In Calgary,builtincalgary.org,new
 https://builtincalgary.org/company/gitlab/jobs,GitLab,Backend Engineer (Rust),Remote Canada,2026-09-15,2026-09-24,Built In Calgary,builtincalgary.org,new
 https://www.eluta.ca/jobs-at-lodgelink?imo=12,LodgeLink Inc.,Software Engineer III,Calgary AB,unknown,2026-09-25,eluta.ca,lodgelink.com,new
-https://www.eluta.ca/jobs-at-secure-energy-services?imo=12,SECURE Energy Services Inc.,Software Developer Intern,Calgary AB,unknown,2026-09-25,eluta.ca,eluta.ca,new
+https://www.eluta.ca/jobs-at-secure-energy-services?imo=12,SECURE Energy Services Inc.,Software Developer Intern,Calgary AB,unknown,2026-09-25,eluta.ca,eluta.ca,filtered_out
 https://www.eluta.ca/jobs-at-black-diamond-group?imo=12,Black Diamond Group,Senior .NET Developer (4827),Calgary AB,unknown,2026-09-25,eluta.ca,blackdiamondgroup.com,new
 https://www.eluta.ca/jobs-at-neo-financial-technologies?imo=12,Neo Financial,Senior / Staff React Native Developer,Calgary AB,unknown,2026-09-26,eluta.ca,neofinancial.com,new
 https://www.eluta.ca/jobs-at-general-dynamics?imo=12,General Dynamics Mission Systems-Canada,Software Engineering Developer DevOps,Calgary AB,unknown,2026-09-25,eluta.ca,gdms.com,new
@@ -464,9 +464,9 @@ https://www.eluta.ca/jobs-at-benevity?imo=12,Benevity Inc.,Senior Staff Data Pla
 https://builtincalgary.org/company/benevity/jobs,Benevity Inc.,Infrastructure Developer Internal Apps,Calgary AB,unknown,2026-09-24,Built In Calgary,builtincalgary.org,new
 https://www.eluta.ca/jobs-at-cognizant-technology-solutions?imo=12,Cognizant Technology Solutions,Senior Java Full Stack Developer Core Java Spring Boot Oracle Hybrid,Calgary AB,unknown,2026-09-24,eluta.ca,cognizant.com,new
 https://www.eluta.ca/search?q=wagepoint+senior+software+development+engineer+calgary,Wagepoint,Senior Software Development Engineer,Calgary AB,unknown,2026-09-28,eluta.ca,wagepoint.com,new
-https://www.eluta.ca/search?q=cenovus+student+ai+software+engineering+calgary+2027,Cenovus Energy,Student AI and Software Engineering (May 2027),Calgary AB,unknown,2026-09-28,eluta.ca,cenovus.com/careers,new
+https://www.eluta.ca/search?q=cenovus+student+ai+software+engineering+calgary+2027,Cenovus Energy,Student AI and Software Engineering (May 2027),Calgary AB,unknown,2026-09-28,eluta.ca,cenovus.com/careers,filtered_out
 https://www.eluta.ca/search?q=geologic+staff+software+developer+calgary,geoLOGIC Systems Ltd.,Staff Software Developer,Calgary AB,$176K-$264K,2026-09-29,2026-09-29,eluta.ca,geologic.com,new
-https://www.eluta.ca/search?q=geologic+junior+software+developer+calgary,geoLOGIC Systems Ltd.,Junior Software Developer,Calgary AB,unknown,2026-09-29,2026-09-29,eluta.ca,geologic.com,new
+https://www.eluta.ca/search?q=geologic+junior+software+developer+calgary,geoLOGIC Systems Ltd.,Junior Software Developer,Calgary AB,unknown,2026-09-29,2026-09-29,eluta.ca,geologic.com,filtered_out
 https://www.linkedin.com/jobs/syndio-staff-software-engineer-essentials-calgary,Syndio,Staff Software Engineer, Essentials (Calgary),Calgary AB,2026-09-26,2026-09-29,LinkedIn,linkedin.com,new
 https://www.linkedin.com/jobs/syndio-software-engineer-integrations-calgary,Syndio,Software Engineer, Integrations (Calgary),Calgary AB,2026-09-22,2026-09-29,LinkedIn,linkedin.com,new
 https://builtincalgary.org/company/synechron/jobs,Synechron,Java Software Engineer,Calgary AB,unknown,2026-09-29,2026-09-29,Built In Calgary,builtincalgary.org,new
@@ -484,7 +484,7 @@ https://www.eluta.ca/jobs-at-cpkc?imo=12,Canadian Pacific Kansas City,Senior Sof
 https://www.eluta.ca/jobs-at-cpkc?imo=12,Canadian Pacific Kansas City,SAP ABAP Developer,Calgary AB,2026-10-03,2026-10-05,eluta.ca,careers.cpr.ca,new
 https://builtincalgary.org/job/software-engineer/10616461,Anchorbase,Software Engineer,Calgary AB,2026-10-07,2026-10-07,Built In Calgary,anchorbase.com/careers,new
 https://www.eluta.ca/jobs-at-wagepoint?imo=12,Wagepoint,Principal Software Development Engineer - Applied AI,Calgary AB,unknown,2026-10-08,eluta.ca,wagepoint.com,new
-https://www.eluta.ca/jobs-at-ecolab?imo=12,Ecolab Co. (CoolIT Systems),Junior Quality Control Software Developer,Calgary AB,unknown,2026-10-09,eluta.ca,www.eluta.ca/jobs-at-ecolab?imo=12,new
+https://www.eluta.ca/jobs-at-ecolab?imo=12,Ecolab Co. (CoolIT Systems),Junior Quality Control Software Developer,Calgary AB,unknown,2026-10-09,eluta.ca,www.eluta.ca/jobs-at-ecolab?imo=12,filtered_out
 https://www.eluta.ca/jobs-at-precision-drilling?imo=12,Precision Drilling Corporation,Senior Microsoft 365 Developer,Calgary AB,unknown,2026-10-08,eluta.ca,precisiondrilling.com/careers,new
 https://www.eluta.ca/jobs-at-lightspeed-pos?imo=12,Lightspeed Commerce Inc.,"Senior Engineer, Application Security",Calgary AB,unknown,2026-10-10,eluta.ca,www.lightspeed.com/en/company/careers,new
 https://www.eluta.ca/jobs-at-benevity,Benevity,Software Development Manager,Calgary AB,2026-10-10,2026-10-11,eluta,benevity.com,new
