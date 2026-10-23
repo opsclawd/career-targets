@@ -47,3 +47,13 @@ Employers or pages that should be deprioritized or excluded.
 ### North Vector Dynamics (jobs.ashbyhq.com/northvectordynamics)
 **Reason:** Ashby board has never returned parseable job content (blank/404 on embed). SWE roles never confirmed despite multiple checks since May 5. No ATS alternative found and no other evidence of active SWE hiring in Calgary.
 **Action:** Reject permanently.
+
+## Daily Sweep 2026-10-23 Additions
+
+### Rumi Technologies (rumi.ai/careers)
+**Reason:** Careers page returns "Rumi is no longer available" — company is defunct/closed. No qualifying open roles.
+**Action:** Reject permanently. Not added to registry.
+
+### Hudson Information Technology and Manpower Services
+**Reason:** Staffing/IT-services firm, not a software product employer. The only role found was "Senior Windows Administrator / Platform Engineer IV" — systems administration, not software engineering.
+**Action:** Exclude from registry; staffing firms are out of scope for this sweep.

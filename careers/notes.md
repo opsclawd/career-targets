@@ -147,3 +147,12 @@ April 2026 job listings (80+ entries) remain marked `new` in jobs_registry with 
 ### Noise Patterns in jobs_registry
 - Precision AI typo URL `precisionai.ai.ai` (double .ai extension) — 2 jobs affected; need closure
 - Capco NodeJS/Java Developer has `morganstanley.com/careers` in careers_url field — should be `capco.com/careers`
+
+## 2026-10-23 Daily Sweep Notes
+- New registry rows: 86 careers pages, 136 jobs (Remote Canada 131, Calgary AB 4, Alberta AB 1).
+- CSV write format: registry files use mixed LF/CRLF. New rows were appended with CRLF to match the surrounding rows; historical rows left byte-identical (no full-file rewrite).
+- 12 new companies use Built In Calgary company-board fallback URLs because no direct employer/ATS careers page could be validated (Burq, DraftKings, Luminai, Midi Health, MonetizeNow, Nuclear Promise X, Palmstreet, Point One Navigation, Raydar, Simbe Robotics, Spangle AI, Tie).
+- `Scope3` careers page now redirects to `apostra.com/careers` (rebrand). Registry keeps `https://www.scope3.com/careers`; review next sweep.
+- `Rumi Technologies` excluded — careers page states the company is no longer available.
+- `Walmart Global Tech` dropped — the only matching role was explicitly USA-based, not Canada-remote.
+- Pre-existing data hygiene issues (not touched): ~57 legacy `jobs_registry.csv` rows have unquoted commas that shift columns; 27 legacy job companies have no matching `careers_registry.csv` row; `Rokt` is duplicated in the careers registry; several legacy rows use aggregator URLs in `job_url`.
