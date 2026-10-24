@@ -156,3 +156,12 @@ April 2026 job listings (80+ entries) remain marked `new` in jobs_registry with 
 - `Rumi Technologies` excluded — careers page states the company is no longer available.
 - `Walmart Global Tech` dropped — the only matching role was explicitly USA-based, not Canada-remote.
 - Pre-existing data hygiene issues (not touched): ~57 legacy `jobs_registry.csv` rows have unquoted commas that shift columns; 27 legacy job companies have no matching `careers_registry.csv` row; `Rokt` is duplicated in the careers registry; several legacy rows use aggregator URLs in `job_url`.
+
+## 2026-10-24 Daily Sweep Notes
+- New registry rows: 14 careers pages, 120 jobs (Remote Canada 116, Calgary AB 4).
+- CSV write format: registry files use mixed LF/CRLF. New rows were appended with CRLF to match the surrounding rows; historical rows left byte-identical (no full-file rewrite).
+- ATS re-check of 129 boards surfaced most of the volume (Affirm 13, Grafana Labs 11, Elastic 9, Cresta 7, Coalition 5, Supabase 5, Samsara 4, Penn Interactive 4).
+- URL corrections applied to existing rows this run: `Akamai Technologies` careers URL `builtincalgary.org/company/akamai-technologies/jobs` -> `https://www.akamai.com/careers`; `Praia Health` new row uses `https://praia.com/careers` (the Built In board slug 404s).
+- Built In Calgary was used mainly for company discovery this run; its board links were replaced with validated ATS/direct employer careers URLs wherever an ATS board could be confirmed.
+- Excluded: whole crypto/Web3 companies, staffing/consulting firms, mobile-only and test-only titles, and stale postings (posted before 2026-06-01) that were already tracked in prior runs.
+- Pre-existing data hygiene issues (not touched): ~23 legacy `jobs_registry.csv` rows have unquoted commas that shift columns; 4 legacy `careers_registry.csv` rows are malformed; several legacy job rows still use aggregator URLs in `job_url`.

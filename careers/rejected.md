@@ -57,3 +57,13 @@ Employers or pages that should be deprioritized or excluded.
 ### Hudson Information Technology and Manpower Services
 **Reason:** Staffing/IT-services firm, not a software product employer. The only role found was "Senior Windows Administrator / Platform Engineer IV" — systems administration, not software engineering.
 **Action:** Exclude from registry; staffing firms are out of scope for this sweep.
+
+## Daily Sweep 2026-10-24 Additions
+
+### Hubs.is (hubs.is/careers)
+**Reason:** Careers page returns a JavaScript-only shell with no readable job content, and no ATS board (Ashby/Greenhouse/Lever/Workable/SmartRecruiters) could be validated for the company slug. The only qualifying role (Senior Backend Engineer) was seen via a Built In Calgary board link.
+**Action:** Not added this run. Revisit if a direct ATS board or a server-rendered careers page appears.
+
+### Crypto/Web3 companies (Coinbase, Trust Wallet, Localcoin, Crypto.com, Kraken Digital Asset Exchange, D/XYZ, Pantheon Platform)
+**Reason:** Web3/crypto-native employers with no non-crypto software engineering function; consistent with the 2026-10-23 whole-company exclusion.
+**Action:** Excluded from the registry.
