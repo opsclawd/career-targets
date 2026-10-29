@@ -14,11 +14,11 @@ MongoDB,https://www.mongodb.com/company/careers,unknown,discovered,2026-10-27,ac
 Precision AI,https://www.precisionai.ai/,unknown,discovered,2026-10-21,active,AI/ML company; AI Engineer role active on Built In Calgary
 headversity,https://headversity.com/careers/,unknown,discovered,2026-04-14,active,"Mental health platform; Calgary HQ, mobile-first product"
 Quorum Software,https://www.quorumsoftware.com/careers/,unknown,discovered,2026-04-14,active,"Energy SaaS (formerly Aucerna); dedicated Software Engineering team, Calgary office"
-WestJet,https://www.westjet.com/careers,unknown,discovered,2026-10-21,active,Calgary HQ airline; Developer and Intermediate Developer roles on LinkedIn; transitioning recruiting systems Apr 17-May 6 2026
+WestJet,https://www.westjet.com/careers,unknown,discovered,2026-10-29,active,"Calgary HQ airline; Developer and Intermediate Developer roles on LinkedIn; transitioning recruiting systems Apr 17-May 6 2026 | re-checked 2026-10-29: AI Engineer, Data, AI and Analytics"
 Enverus,https://www.enverus.com/careers/,unknown,discovered,2026-10-21,active,Calgary-based energy SaaS leader; multiple tech roles per Built In Calgary
 Autodesk,https://www.autodesk.com/careers/overview,unknown,discovered,2026-04-15,active,"Global design/make software; Calgary office; Software Developer role on LinkedIn"
-StackAdapt,https://www.stackadapt.com/careers,unknown,discovered,2026-10-28,active,Adtech platform (Toronto-based); Software Engineer Backend role in Calgary on LinkedIn
-Canonical,https://canonical.com/careers,unknown,discovered,2026-10-27,active,"Ubuntu/Linux company; remote-first; multiple Calgary SWE postings (SWE-3, Cloud Images, Python/K8s)"
+StackAdapt,https://www.stackadapt.com/careers,unknown,discovered,2026-10-29,active,"Adtech platform (Toronto-based); Software Engineer Backend role in Calgary on LinkedIn | re-checked 2026-10-29: Senior Full Stack Engineer, Product Led Growth"
+Canonical,https://canonical.com/careers,unknown,discovered,2026-10-29,active,"Ubuntu/Linux company; remote-first; multiple Calgary SWE postings (SWE-3, Cloud Images, Python/K8s) | re-checked 2026-10-29: Senior Site Reliability / Gitops Engineer"
 ICE (Intercontinental Exchange),https://www.theice.com/careers,unknown,discovered,2026-04-15,active,"Global exchanges/data; Calgary office; Developer role on LinkedIn"
 Fullscript,https://fullscript.com/careers,lever,discovered,2026-10-27,active,Healthcare SaaS; Lever board; Senior Developer Backend Calgary on LinkedIn; 29 open roles
 Wagepoint,https://www.wagepoint.com/careers/,unknown,discovered,2026-10-19,active,"Calgary-based payroll SaaS; Staff SWE and Staff SDE Frontend roles on LinkedIn; 3 new roles added Oct 19: Staff SWE (general), Senior SWE Mobile, SWE Mobile (all remote)"
@@ -40,7 +40,7 @@ Trufla,https://www.trufla.com/careers,unknown,discovered,2026-04-15,active,"Calg
 Rokt,https://www.rokt.com/careers,unknown,discovered,2026-04-15,active,"Ecommerce/adtech; Calgary presence per Built In Calgary"
 Xero,https://www.xero.com/ca/careers/,unknown,discovered,2026-10-28,active,Accounting SaaS; Calgary presence per Built In Calgary
 GHGSat,https://www.ghgsat.com/en/careers,unknown,discovered,2026-04-16,active,"Montreal-based satellite emissions monitoring; Calgary office; Embedded Software Developer on LinkedIn"
-Alpaca,https://alpaca.markets/careers,unknown,discovered,2026-10-27,active,Fintech/trading API platform; Senior SWE Tax Platform in Calgary on LinkedIn
+Alpaca,https://alpaca.markets/careers,unknown,discovered,2026-10-29,active,Fintech/trading API platform; Senior SWE Tax Platform in Calgary on LinkedIn | re-checked 2026-10-29: Senior Site Reliability Engineer; Senior Software Engineer - Payments & Treasury
 TC Energy,https://www.tcenergy.com/careers/,unknown,discovered,2026-04-16,active,"Major energy infrastructure; Calgary HQ; Data Engineer on LinkedIn"
 BigGeo,https://biggeo.com/careers,unknown,discovered,2026-04-16,rejected,"careers page 404 since Apr 16; company active via Vivid Theory brand (already in registry); no ATS found"
 AMD,https://www.amd.com/en/corporate/careers,icims,discovered,2026-04-17,active,"Global semiconductor; Calgary office; Staff SDE on LinkedIn"
@@ -51,7 +51,7 @@ Apply Digital,https://www.applydigital.com/careers/,unknown,discovered,2026-10-2
 Black Duck,https://www.blackduck.com/company/careers.html,unknown,discovered,2026-10-27,active,Software security (formerly Synopsys SISE); Senior Performance Engineer role in Calgary on LinkedIn
 LodgeLink,https://www.lodgelink.com/careers/,unknown,discovered,2026-07-23,active,"Calgary-based workforce travel tech; Staff SWE role on LinkedIn; SuccessFactors ATS; SWE II and SWE in Test II found Jul 23"
 Lumenalta,https://lumenalta.com/careers,unknown,discovered,2026-04-17,active,"Tech consulting (formerly Metis); Senior Data Engineer role in Calgary on LinkedIn"
-Clio,https://www.clio.com/ca/careers,unknown,discovered,2026-10-13,active,"Cloud legal tech leader; Vancouver HQ with Calgary office; crossed $500M ARR May 2026; Senior Data Engineer (Oct 9), Senior Software Developer Product-Led Growth (Aug 24), Software Developer Co-op Jan 2027 (Oct 8, net-new)"
+Clio,https://www.clio.com/ca/careers,unknown,discovered,2026-10-29,active,"Cloud legal tech leader; Vancouver HQ with Calgary office; crossed $500M ARR May 2026; Senior Data Engineer (Oct 9), Senior Software Developer Product-Led Growth (Aug 24), Software Developer Co-op Jan 2027 (Oct 8, net-new) | re-checked 2026-10-29: Machine Learning Engineer; Security Engineer, Logging Platform"
 S&P Global,https://www.spglobal.com/careers,unknown,discovered,2026-04-17,active,"Global data/analytics; Lead Knowledge Engineer Semantic Web role in Calgary on LinkedIn"
 Neo Financial,https://www.neofinancial.com/company/careers,unknown,discovered,2026-10-27,active,Calgary-based fintech; Canada's #1 startup per LinkedIn (2024); on Built In Calgary
 Nureva,https://www.nureva.com/company/careers,unknown,discovered,2026-10-21,active,Calgary-based conferencing tech (Microphone Mist); on Built In Calgary
@@ -86,7 +86,7 @@ Amplifier Health,https://www.amplifierhealth.com,unknown,discovered,2026-04-23,r
 BlueMarvel AI,https://www.bluemarvel.ai,unknown,discovered,2026-04-23,active,"Calgary-based industrial operations AI/software company; HQ Calgary confirmed; SWE roles not yet confirmed in this run"
 Keyera,https://www.keyera.com/careers/,workday,discovered,2026-04-25,active,"Calgary-based midstream energy infrastructure; Workday ATS (keyera.wd10.myworkdayjobs.com); on Built In Calgary; has tech/IT roles"
 Speechify,https://careers.speechify.com/,unknown,discovered,2026-10-27,active,"Voice AI (text-to-speech) company; Calgary office confirmed; SWE roles (iOS Core Product, Senior SWE Windows/Desktop) on LinkedIn via Built In Calgary; careers at speechify.com/careers"
-Kinaxis,https://www.kinaxis.com/careers,unknown,discovered,2026-04-26,active,"Supply chain SaaS (Maestro platform); Staff Software Developer AI/ML role in Calgary confirmed via LinkedIn; careers page kinaxis.com/en/careers"
+Kinaxis,https://www.kinaxis.com/careers,unknown,discovered,2026-10-29,active,"Supply chain SaaS (Maestro platform); Staff Software Developer AI/ML role in Calgary confirmed via LinkedIn; careers page kinaxis.com/en/careers | re-checked 2026-10-29: Senior Software Developer, Operations Research"
 Galatea Technologies,https://www.galateatech.com,unknown,discovered,2026-04-26,active,"Calgary-based digital waste/water/commodity logistics software; energy industry focus; SWE roles not yet confirmed this run"
 Bell Canada,https://jobs.bell.ca/ca/en,unknown,discovered,2026-04-27,active,"Major telecom; Software Developer I Full Stack (Go, Rust) in Calgary on LinkedIn (2 days ago); Workday ATS"
 BMO Financial Group,https://jobs.bmo.com/en_US/careers,workday,discovered,2026-09-02,active,"Major Canadian bank; Workday ATS; GenAI Software Developer and Software Application Developer Generative AI on eluta (Jul 23)"
@@ -94,7 +94,7 @@ Convverge,https://www.convverge.com,unknown,discovered,2026-04-27,active,"Calgar
 KPMG Canada,https://kpmg.com/ca/en/careers,unknown,discovered,2026-04-27,active,"Major accounting/consulting firm; .NET Developer AI & Agent Enablement in Calgary on LinkedIn (2 hours ago); JS-rendered"
 Nutrien,https://www.nutrien.com/careers,successfactors,discovered,2026-04-27,active,"Major Calgary-based agribusiness; Tech and IT category; Integrator Software Developer Co-op in Calgary on LinkedIn (3 days ago); SuccessFactors ATS"
 Canadian Pacific Kansas City,https://careers.cpr.ca/,custom,seed,2026-09-19,active,"Major rail company; ATS unconfirmed (not Greenhouse); JS-rendered; Specialist SWE Cloud Developer (Sep 19 2026, fresh repost) and Sr Specialist SWD Custom Solution (Sep 17 2026) active on eluta; SAP BW-ABAP Developer (fixed term), Analyst Software Developer (Advanced Train Control)"
-Circle Cardiovascular Imaging Inc.,https://www.eluta.ca/jobs-at-circle-cardiovascular-imaging,eluta,discovered,2026-10-21,active,Calgary-based cardiac MRI imaging software company; CVI42 market leader; multiple ML/SWE roles on eluta.ca
+Circle Cardiovascular Imaging Inc.,https://www.eluta.ca/jobs-at-circle-cardiovascular-imaging,eluta,discovered,2026-10-29,active,Calgary-based cardiac MRI imaging software company; CVI42 market leader; multiple ML/SWE roles on eluta.ca | re-checked 2026-10-29: Core Software Developer; Machine Learning Software Developer; Software Developer (2026-035)
 Arcobi,https://www.arcobi.com,unknown,discovered,2026-04-28,active,"Energy intelligence SaaS (formerly Arcus Power); Calgary HQ at 401 9th Ave SW; Senior Infrastructure Engineer and Senior Full-Stack Engineer on LinkedIn"
 ClearGov,https://cleargov.com/careers,applytojob,discovered,2026-10-27,active,"Budget/finance SaaS for local government; Calgary office confirmed; multiple SWE/SWE-manager roles on LinkedIn (Sr. SWE Budgeting, Sr. SWE Disclosure, Mgr SWE Disclosure, Dir SWE)"
 General Dynamics Mission Systems-Canada,https://www.gdms.com/careers,unknown,discovered,2026-04-29,active,"Defense contractor; SWE DevOps role in Calgary on eluta.ca (5h ago); also Systems Engineer roles"
@@ -102,7 +102,7 @@ IrisCX,https://www.iriscx.com/careers,unknown,discovered,2026-04-29,active,"Calg
 Forsite Consultants Ltd.,https://www.forsite.ca/careers,unknown,discovered,2026-04-29,active,"Forestry land management; part of Barr GeoSpatial group; GTC team with Senior SWE & Designer in Calgary on eluta.ca (6 days ago)"
 Black Diamond Group,https://www.blackdiamondgroup.com/about/careers,unknown,discovered,2026-07-23,active,"Calgary-based industrial services/asset management (TSX:BDI); parent company of LodgeLink; Staff SWE on eluta; SWE II and SWE in Test II found Jul 23"
 Ambyint,https://www.ambyint.com/careers,unknown,discovered,2026-04-30,active,"Calgary-based climate tech (artificial lift optimization for energy); Full Stack Java Developer and Developer Lead (Java/Angular) on eluta; 14+ days"
-Helcim Inc.,https://www.helcim.com/careers,unknown,discovered,2026-04-30,active,"Calgary-based payments fintech; Senior Software Developer - Mobile (Android) on eluta; 14+ days; careers page Cloudflare-blocked"
+Helcim Inc.,https://www.helcim.com/careers,unknown,discovered,2026-10-29,active,Calgary-based payments fintech; Senior Software Developer - Mobile (Android) on eluta; 14+ days; careers page Cloudflare-blocked | re-checked 2026-10-29: Software Engineer (Integrations)
 Promise Robotics Inc.,https://promiserobotics.com/careers,unknown,discovered,2026-04-30,active,"Calgary-based construction tech/robotics automation; Manager, Software Development on eluta; 14+ days"
 Equinox Engineering Ltd.,https://www.equinoxeng.com/careers,unknown,discovered,2026-04-30,active,"Calgary-based engineering firm; AI Automation Developer on eluta (8 days ago); careers page redirects to /lander"
 Millennium EMS Solutions Ltd.,https://www.millenniumems.com,unknown,discovered,2026-07-23,active,"Calgary-based environmental consulting; Intermediate and Senior Software Developer (C#/.NET/Azure/Blazor) on eluta (Jul 23)"
@@ -176,7 +176,7 @@ Rockwell Automation Canada Ltd.,https://www.rockwellautomation.com/en-company/ca
 Calgary Sports and Entertainment Corporation (CSEC),https://www.eluta.ca/jobs-at-calgary-sports-and-entertainment-corporation?imo=12,eluta,discovered,2026-07-27,active,"Calgary-based sports/entertainment (Flames, Stampeders, Hitmen, Roughnecks); Junior Developer on eluta (4d ago, JS/React/Next.js/Python/Node.js/AWS stack); eluta ATS"
 LaPrairie Group of Companies,https://www.eluta.ca/jobs-at-la-prairie-group-contractorsltd?imo=12,eluta,discovered,2026-07-29,active,"Calgary-based construction/contractor company; Full Stack Developer Intermediate in downtown Calgary office (14d ago on eluta); legacy app modernization (logistics, scheduling, field service mgmt); in-house IT dev team"
 Palo Alto Networks,https://www.paloaltonetworks.com/careers,unknown,discovered,2026-07-30,active,"Global cybersecurity leader; Principal Software Escalation Engineer in Calgary AB on eluta (11h ago)"
-Block (Square),https://careers.squareup.com/ca/en,unknown,discovered,2026-08-04,active,"SF-based fintech (NYSE: SQ); actively hiring SWE in Calgary (Remote Calgary AB); roles: Senior SRE and Senior Full Stack AI Engineer on Built In Calgary (Aug 3 2026); JS-rendered careers board"
+Block (Square),https://careers.squareup.com/ca/en,unknown,discovered,2026-10-29,active,"SF-based fintech (NYSE: SQ); actively hiring SWE in Calgary (Remote Calgary AB); roles: Senior SRE and Senior Full Stack AI Engineer on Built In Calgary (Aug 3 2026); JS-rendered careers board | re-checked 2026-10-29: Senior Security Engineer, Platform Security; Senior Software Engineer, Cash App Taxes; Senior Software Engineer, Developer Experience; Staff Software Engineer, Cash App Banking; Staff Software Engineer, Go-to-Market Systems & AI"
 Magnet Forensics,https://www.magnetforensics.com/careers-at-magnet/,unknown,discovered,2026-10-27,active,Cybersecurity software (digital forensics); HQ Atlanta GA with Waterloo ON and Calgary AB offices; Software Engineer - Magnet One (front-end/back-end/full-stack) in Calgary on LinkedIn (1w ago); acquired by Magnet Forensics; 1000+ employees
 TechDoQuest,https://www.techdoquest.com/careers,unknown,discovered,2026-08-05,active,"Calgary-based IT consulting/services firm; Java Web Developer role in Calgary on LinkedIn (1w ago); enterprise tech modernization focus"
 VEERUM Inc.,https://veerum.com/careers,unknown,discovered,2026-08-06,active,"Calgary-based industrial SaaS (visual operations platform for heavy industry); confirmed on Built In Calgary; Senior SRE ($115K-$130K, 22h ago on eluta.ca)"
@@ -198,7 +198,7 @@ Calian Group Ltd.,https://www.calian.com/careers,unknown,discovered,2026-09-06,a
 Modular Solutions,https://www.modular.com/careers,unknown,discovered,2026-09-06,active,"Calgary-based company; Data Migration Automation Developer (SQL, PostgreSQL, Snowflake, ETL/ELT) and Product Owner on eluta.ca; remote ok"
 MISTRAS Group Inc. (Onstream Division),https://www.eluta.ca/jobs-at-mistras-group?imo=12,eluta,discovered,2026-09-09,active,"Global non-destructive testing (NDT) company (NYSE: MG); Onstream division supports pipeline inspection software/data analysis platforms; Software Development Manager on eluta (15h ago) for pipeline inspection software products; Calgary AB"
 SECURE Energy Services Inc.,https://www.eluta.ca/jobs-at-secure-energy-services?imo=12,eluta,discovered,2026-09-11,active,"Calgary AB energy services company (TSX: SES); hybrid SDET/Jr. Software Developer in Calgary office (Brookfield Office downtown); eluta ATS; QA/testing focus with entry-level full-stack development tasks; 2d ago on eluta"
-GitLab,https://www.gitlab.com/company/careers,greenhouse,builtincalgary,2026-10-28,active,"Global DevSecOps/platform company (NASDAQ: GTLB); Calgary office confirmed via Built In Calgary; Canada-remote SWE/SWE-adjacent roles active on Built In Calgary (Lead Enterprise Architect Professional Services, Senior Customer Engineer PostgreSQL, Senior Application Security Researcher); Backend Engineer (Rust) added 2026-09-24; remote-first culture; all-remote OK for Canada-based hires"
+GitLab,https://www.gitlab.com/company/careers,greenhouse,builtincalgary,2026-10-29,active,"Global DevSecOps/platform company (NASDAQ: GTLB); Calgary office confirmed via Built In Calgary; Canada-remote SWE/SWE-adjacent roles active on Built In Calgary (Lead Enterprise Architect Professional Services, Senior Customer Engineer PostgreSQL, Senior Application Security Researcher); Backend Engineer (Rust) added 2026-09-24; remote-first culture; all-remote OK for Canada-based hires | re-checked 2026-10-29: Site Reliability Engineer, Infrastructure Platforms — AMER (Intermediate to Senior Staff)"
 Swift Tech Co.,https://www.eluta.ca/jobs-at-swift-tech?imo=12,eluta,discovered,2026-09-13,active,"Calgary-based tech consultancy (energy sector focus); Software Engineer Backend (Work Remotely, 1d ago) on eluta.ca; Canadian remote-first company; Swift Tech Co. eluta ATS board active Sep 2026"
 Cloudbeds,https://www.cloudbeds.com/careers,greenhouse,builtincalgary,2026-10-27,active,"Hospitality SaaS (hotel PMS platform); remote-first with Calgary AB office; Backend Engineer (PHP/Java, Kafka/PostgreSQL) and Backend Engineer AI Platform Services (Python) on Built In Calgary; Founded 2012"
 GeologicAI,https://www.geologicai.com/careers,linkedin,linkedin,2026-09-14,active,"Calgary-based geoscience/mining AI company (distinct from geoLOGIC Systems); applies AI/ML to geological data for mining/resources; Intermediate Software Engineer on LinkedIn (2d ago); HQ confirmed Calgary"
@@ -231,7 +231,7 @@ Coalition,https://www.coalitioninc.com/careers,unknown,builtincalgary,2026-10-28
 Co-operators,https://www.cooperators.ca/en/about-us/careers,unknown,builtincalgary,2026-10-21,active,Calgary-headquartered insurance co-operative with a large Calgary IT/Guidewire shop; Systems Developer - Guidewire (Calgary AB) on Built In Calgary. Note: www.co-operators.ca does not resolve - working domain is www.cooperators.ca
 Sia Partners,https://www.sia-partners.com/en/opportunities,unknown,builtincalgary,2026-10-21,active,Calgary-headquartered data & AI consultancy; Applied AI Lead - Calgary (Calgary AB) on Built In Calgary; Canada-wide delivery practice
 Domino Data Lab,https://domino.ai/careers,unknown,builtincalgary,2026-10-27,active,"Data/AI platform company (Denver HQ) with Calgary presence; Staff SWE, Identity and Authorization (Remote Canada) on Built In Calgary. Note: domino-data-lab.com has no DNS - working domain is domino.ai"
-Atlassian,https://www.atlassian.com/company/careers,unknown,builtincalgary,2026-10-21,active,"Global DevOps/collab software company with Calgary presence on Built In Calgary; 3 Canada-eligible SWE roles (Full Stack, Senior Backend, Backend) posted 2026-10-21"
+Atlassian,https://www.atlassian.com/company/careers,unknown,builtincalgary,2026-10-29,active,"Global DevOps/collab software company with Calgary presence on Built In Calgary; 3 Canada-eligible SWE roles (Full Stack, Senior Backend, Backend) posted 2026-10-21 | re-checked 2026-10-29: Principal Fullstack Software Engineer; Senior Frontend Software Engineer; Staff Software Engineer"
 CrowdStrike,https://www.crowdstrike.com/en-us/careers/,unknown,builtincalgary,2026-10-21,active,"Cybersecurity platform with Calgary office; Sr. Automation Engineer, Falcon Complete (Remote CAN) on Built In Calgary"
 Celonis,https://careers.celonis.com/join-us/open-positions,unknown,builtincalgary,2026-10-27,active,Process mining / data intelligence software company with Calgary office; current Built In Calgary listings are AI value-architect/solution roles so no SWE rows added; SWE roles exist on its own careers site
 Applied Systems,https://www.appliedsystems.com/careers/,unknown,builtincalgary,2026-10-21,active,"Calgary/Toronto cloud software for insurance; Staff SWE, Agentic AI (Remote Canada) on Built In Calgary"
@@ -248,12 +248,12 @@ Basetwo AI,https://apply.workable.com/basetwo/,unknown,builtincalgary,2026-10-22
 Blackpoint Cyber,https://blackpointcyber.com/company/careers/,unknown,builtincalgary,2026-10-22,active,Discovered via Built In Calgary company board; 1 SWE/data role(s) found 2026-10-22: Staff Software Engineer
 CSC Generation,https://builtincalgary.org/company/csc-generation/jobs,unknown,builtincalgary,2026-10-22,active,"Discovered via Built In Calgary company board; 1 SWE/data role(s) found 2026-10-22: Lead Software Engineer, E-Commerce Platform"
 Cascade Debt,https://app.dover.com/jobs/cascadedebt,unknown,builtincalgary,2026-10-22,active,Discovered via Built In Calgary company board; 1 SWE/data role(s) found 2026-10-22: Credit & Lending Data Engineer
-Case IQ,https://www.caseiq.com/careers,unknown,builtincalgary,2026-10-22,active,Discovered via Built In Calgary company board; 1 SWE/data role(s) found 2026-10-22: DevOps Engineer
+Case IQ,https://www.caseiq.com/careers,unknown,builtincalgary,2026-10-29,active,Discovered via Built In Calgary company board; 1 SWE/data role(s) found 2026-10-22: DevOps Engineer | re-checked 2026-10-29: Senior Software Application Developer
 Chromatic,https://www.chromatic.com/company/careers,unknown,builtincalgary,2026-10-27,active,"Discovered via Built In Calgary company board; 1 SWE/data role(s) found 2026-10-22: Senior DevOps Engineer"
 CircleCI,https://circleci.com/careers/,unknown,builtincalgary,2026-10-27,active,"Discovered via Built In Calgary company board; 2 SWE/data role(s) found 2026-10-22: Senior Software Engineer, Query; Staff Software Engineer, On-Prem"
 Clario,https://clario.com/careers/,unknown,builtincalgary,2026-10-22,active,Discovered via Built In Calgary company board; 2 SWE/data role(s) found 2026-10-22: Lead Mobile Application Engineer (.NET MAUI); Senior DevOps Engineer
 Coconut Software,https://www.coconutsoftware.com/careers/,unknown,builtincalgary,2026-10-27,active,"Discovered via Built In Calgary company board; 1 SWE/data role(s) found 2026-10-22: Intermediate DevOps Engineer"
-Cohere AI,https://cohere.com/careers,unknown,builtincalgary,2026-10-22,active,Discovered via Built In Calgary company board; 1 SWE/data role(s) found 2026-10-22: Senior Staff Data Engineer
+Cohere AI,https://cohere.com/careers,unknown,builtincalgary,2026-10-29,active,"Discovered via Built In Calgary company board; 1 SWE/data role(s) found 2026-10-22: Senior Staff Data Engineer | re-checked 2026-10-29: Senior Full-Stack Engineer, Internal Applications"
 Cresta,https://cresta.com/careers,unknown,builtincalgary,2026-10-27,active,"Discovered via Built In Calgary company board; 1 SWE/data role(s) found 2026-10-22: Senior Mobile Software Engineer - Android & iOS"
 Cribl,https://cribl.io/careers/,unknown,builtincalgary,2026-10-27,active,"Discovered via Built In Calgary company board; 1 SWE/data role(s) found 2026-10-22: Software Engineer, Stream Integrations"
 D-Wave Systems,https://www.dwavequantum.com/company/careers/,unknown,builtincalgary,2026-10-22,active,Discovered via Built In Calgary company board; 1 SWE/data role(s) found 2026-10-22: Senior AI DevOps Developer [584]
@@ -275,29 +275,32 @@ Motive,https://gomotive.com/company/careers/,unknown,builtincalgary,2026-10-27,a
 NVIDIA,https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite,unknown,builtincalgary,2026-10-22,active,Discovered via Built In Calgary company board; 1 SWE/data role(s) found 2026-10-22: Senior DevOps Engineer - Robotics Simulation
 Newfold Digital,https://builtincalgary.org/company/newfold-digital/jobs,unknown,builtincalgary,2026-10-22,active,"Discovered via Built In Calgary company board; 1 SWE/data role(s) found 2026-10-22: Senior DevOps Engineer, AI Platform"
 Northbeam,https://job-boards.greenhouse.io/northbeam,unknown,builtincalgary,2026-10-27,active,"Discovered via Built In Calgary company board; 2 SWE/data role(s) found 2026-10-22: Software Engineer, Data Systems (Python); Staff Software Engineer, Data Systems (Python)"
-OPENLANE,https://corporate.openlane.com/careers/,unknown,builtincalgary,2026-10-22,active,Discovered via Built In Calgary company board; 1 SWE/data role(s) found 2026-10-22: Staff Software Engineer (Remote)
+OPENLANE,https://corporate.openlane.com/careers/,unknown,builtincalgary,2026-10-29,active,Discovered via Built In Calgary company board; 1 SWE/data role(s) found 2026-10-22: Staff Software Engineer (Remote) | re-checked 2026-10-29: Sr. Software Engineer (C# .NET)
 Pantheon Platform,https://builtincalgary.org/company/pantheon-platform/jobs,unknown,builtincalgary,2026-10-22,active,Discovered via Built In Calgary company board; 1 SWE/data role(s) found 2026-10-22: Staff Software Engineer - Data Platform
-Penn Interactive,https://builtincalgary.org/company/penn-interactive/jobs,unknown,builtincalgary,2026-10-28,active,"Discovered via Built In Calgary company board; 1 SWE/data role(s) found 2026-10-22: Senior Data Engineer"
+Penn Interactive,https://builtincalgary.org/company/penn-interactive/jobs,unknown,builtincalgary,2026-10-29,active,"Discovered via Built In Calgary company board; 1 SWE/data role(s) found 2026-10-22: Senior Data Engineer
+ | re-checked 2026-10-29: Senior Software Engineer, Accounts"
 Platform.sh,https://upsun.com/jobs/,unknown,builtincalgary,2026-10-27,active,"Discovered via Built In Calgary company board; 1 SWE/data role(s) found 2026-10-22: Software Engineer"
 Practice Better,https://practicebetter.io/careers,unknown,builtincalgary,2026-10-27,active,"Discovered via Built In Calgary company board; 1 SWE/data role(s) found 2026-10-22: Intermediate DevOps Engineer"
 Recharge,https://getrecharge.com/careers,unknown,builtincalgary,2026-10-27,active,"Discovered via Built In Calgary company board; 1 SWE/data role(s) found 2026-10-22: Senior DevOps Engineer"
 Redpanda Data,https://www.redpanda.com/careers,unknown,builtincalgary,2026-10-28,active,"Discovered via Built In Calgary company board; 1 SWE/data role(s) found 2026-10-22: Staff Product Engineer, Agentic Identity & Governance, AI Platform"
-Retell AI,https://www.retellai.com/careers,unknown,builtincalgary,2026-10-27,active,"Discovered via Built In Calgary company board; 1 SWE/data role(s) found 2026-10-22: Senior Software Engineer, Backend"
+Retell AI,https://www.retellai.com/careers,unknown,builtincalgary,2026-10-29,active,"Discovered via Built In Calgary company board; 1 SWE/data role(s) found 2026-10-22: Senior Software Engineer, Backend
+ | re-checked 2026-10-29: Senior Software Engineer, Full Stack"
 Revel,https://builtincalgary.org/company/revel-1/jobs,unknown,builtincalgary,2026-10-27,active,"Discovered via Built In Calgary company board; 1 SWE/data role(s) found 2026-10-22: Frontend Software Engineer, Data Platform"
 Sapsol Technologies Inc,https://sapsol.com/careers/,unknown,builtincalgary,2026-10-22,active,Discovered via Built In Calgary company board; 1 SWE/data role(s) found 2026-10-22: C ++ Developer
 Sardine,https://www.sardine.ai/careers,unknown,builtincalgary,2026-10-28,active,"Discovered via Built In Calgary company board; 1 SWE/data role(s) found 2026-10-22: Senior Software Engineer, Backend - KYC"
-ShyftLabs,https://jobs.lever.co/shyftlabs,unknown,builtincalgary,2026-10-27,active,"Discovered via Built In Calgary company board; 1 SWE/data role(s) found 2026-10-22: Data Engineer"
+ShyftLabs,https://jobs.lever.co/shyftlabs,unknown,builtincalgary,2026-10-29,active,"Discovered via Built In Calgary company board; 1 SWE/data role(s) found 2026-10-22: Data Engineer
+ | re-checked 2026-10-29: Senior AI Engineer; Senior Backend Developer; Senior DevOps Engineer"
 Snout,https://jobs.gem.com/snout,unknown,builtincalgary,2026-10-22,active,Discovered via Built In Calgary company board; 1 SWE/data role(s) found 2026-10-22: Founding Data Engineer
 Solink,https://solink.com/careers/,unknown,builtincalgary,2026-10-28,active,"Discovered via Built In Calgary company board; 1 SWE/data role(s) found 2026-10-22: Staff Software Engineer, Data"
 Supabase,https://supabase.com/careers,unknown,builtincalgary,2026-10-27,active,"Discovered via Built In Calgary company board; 2 SWE/data role(s) found 2026-10-22: FinOps Data Engineer; Software Engineer - Turso"
 Sureify,https://builtincalgary.org/company/sureify/jobs,unknown,builtincalgary,2026-10-27,active,"Discovered via Built In Calgary company board; 1 SWE/data role(s) found 2026-10-22: Senior DevOps Engineer"
 Tailscale,https://tailscale.com/careers,unknown,builtincalgary,2026-10-28,active,"Discovered via Built In Calgary company board; 2 SWE/data role(s) found 2026-10-22: Forward Deployed Engineer; Software Engineer, AI Enablement"
-Tempo Software,https://www.tempo.io/careers,unknown,builtincalgary,2026-10-22,active,Discovered via Built In Calgary company board; 1 SWE/data role(s) found 2026-10-22: Senior AI/ML Engineer
+Tempo Software,https://www.tempo.io/careers,unknown,builtincalgary,2026-10-29,active,Discovered via Built In Calgary company board; 1 SWE/data role(s) found 2026-10-22: Senior AI/ML Engineer | re-checked 2026-10-29: Senior Backend Developer; Staff Software Developer
 Tiger Analytics,https://www.tigeranalytics.com/about-us/current-openings/,unknown,builtincalgary,2026-10-22,active,Discovered via Built In Calgary company board; 1 SWE/data role(s) found 2026-10-22: Gen AI Engineer
 Uplimit,https://builtincalgary.org/company/uplimit/jobs,unknown,builtincalgary,2026-10-22,active,Discovered via Built In Calgary company board; 2 SWE/data role(s) found 2026-10-22: Software Engineer - AI; Software Engineer - Full Stack
 VeriPark,https://www.veripark.com/,unknown,builtincalgary,2026-10-22,active,Discovered via Built In Calgary company board; 1 SWE/data role(s) found 2026-10-22: Full Stack Software Developer
 VistaVu Solutions,https://vistavu.bamboohr.com/careers,unknown,builtincalgary,2026-10-22,active,Discovered via Built In Calgary company board; 1 SWE/data role(s) found 2026-10-22: Forward Deployed Engineer - Full Stack AI Solutions
-WEX Inc.,https://careers.wexinc.com/us/en,unknown,builtincalgary,2026-10-22,active,Discovered via Built In Calgary company board; 2 SWE/data role(s) found 2026-10-22: Staff Data Platform Engineer; Staff Software Engineer – Data Acquisition
+WEX Inc.,https://careers.wexinc.com/us/en,unknown,builtincalgary,2026-10-29,active,Discovered via Built In Calgary company board; 2 SWE/data role(s) found 2026-10-22: Staff Data Platform Engineer; Staff Software Engineer – Data Acquisition | re-checked 2026-10-29: Senior Backend Engineer – AI Platform; Senior Full-Stack Engineer (Java / Spring Boot)
 WME Group,https://builtincalgary.org/company/wme-group-llc-d-b-a-wme/jobs,unknown,builtincalgary,2026-10-22,active,"Discovered via Built In Calgary company board; 1 SWE/data role(s) found 2026-10-22: Senior DevOps Engineer, Applications"
 Wonuva,https://builtincalgary.org/company/wonuva/jobs,unknown,builtincalgary,2026-10-22,active,Discovered via Built In Calgary company board; 1 SWE/data role(s) found 2026-10-22: Senior AI Engineer – Large-Scale Data Modeling & Machine Learning
 WorkOS,https://workos.com/careers,unknown,builtincalgary,2026-10-28,active,"Discovered via Built In Calgary company board; 1 SWE/data role(s) found 2026-10-22: Data Engineer"
@@ -306,7 +309,8 @@ gaiia,https://gaiia.com/,unknown,builtincalgary,2026-10-22,active,Discovered via
 Agiloft,https://www.agiloft.com/careers,custom,discovered,2026-10-27,active,"Staff Software Engineer - Platform and Cloud Services | added 2026-10-23 daily sweep"
 Camunda,https://www.camunda.com/careers,custom,discovered,2026-10-27,active,"Senior Site Reliability Engineer; Senior Software Engineer, Backend - Data Layer; Senior Software Engineer, Backend - Data Streaming | added 2026-10-23 daily sweep"
 Censys,https://www.censys.com/careers,custom,discovered,2026-10-27,active,"Senior Machine Learning Engineer; Staff Backend Engineer, Exposure Management; Staff Backend Engineer, SOC & Threat Hunting | added 2026-10-23 daily sweep"
-Chainguard,https://job-boards.greenhouse.io/chainguard,greenhouse,discovered,2026-10-28,active,"Senior Software Engineer (Customer Platform); Senior Software Engineer, Containers; Staff Software Engineer (Customer Platform) ; Staff Software Engineer, Containers | added 2026-10-23 daily sweep"
+Chainguard,https://job-boards.greenhouse.io/chainguard,greenhouse,discovered,2026-10-29,active,"Senior Software Engineer (Customer Platform); Senior Software Engineer, Containers; Staff Software Engineer (Customer Platform) ; Staff Software Engineer, Containers | added 2026-10-23 daily sweep
+ | re-checked 2026-10-29: Principal Product Security Engineer"
 ClickUp,https://www.clickup.com/careers,custom,discovered,2026-10-28,active,"Staff Data Engineer | added 2026-10-23 daily sweep"
 Dropbox,https://job-boards.greenhouse.io/dropbox,greenhouse,discovered,2026-10-27,active,"Senior Corporate Enterprise Platform Engineer, Windows | added 2026-10-23 daily sweep"
 Inspiren,https://www.inspiren.com/careers,custom,discovered,2026-10-27,active,"Staff Software Engineer - Backend | added 2026-10-23 daily sweep"
@@ -320,7 +324,8 @@ Replicant,https://www.replicant.com/careers,custom,discovered,2026-10-27,active,
 SandboxAQ,https://www.sandboxaq.com/careers,custom,discovered,2026-10-27,active,"Senior Machine Learning Engineer, AI Generation Engine; Staff Machine Learning Engineer, AI Generation Engine | added 2026-10-23 daily sweep"
 Scopely,https://job-boards.greenhouse.io/scopely,greenhouse,discovered,2026-10-27,active,"Senior Software Engineer (Gaming Backend) - WWE Champions | added 2026-10-23 daily sweep"
 Vanta,https://www.vanta.com/careers,custom,discovered,2026-10-28,active,"Senior Fullstack Software Engineer, GRC; Senior Software Engineer, Product Platform; Staff Software Engineer, Program Structure & Trust | added 2026-10-23 daily sweep"
-Waabi,https://www.waabi.ai/careers,custom,discovered,2026-10-27,active,"Senior / Staff Machine Learning Engineer, Vehicle Dynamics; Senior / Staff Software Engineer, ML Datasets & Data Pipelines; Senior / Staff Software Engineer, Motion Planning; Senior Software Engineer, Auto Labelling | added 2026-10-23 daily sweep"
+Waabi,https://www.waabi.ai/careers,custom,discovered,2026-10-29,active,"Senior / Staff Machine Learning Engineer, Vehicle Dynamics; Senior / Staff Software Engineer, ML Datasets & Data Pipelines; Senior / Staff Software Engineer, Motion Planning; Senior Software Engineer, Auto Labelling | added 2026-10-23 daily sweep
+ | re-checked 2026-10-29: Senior / Staff Software Engineer, AI Tooling"
 Wrapbook,https://www.wrapbook.com/careers,custom,discovered,2026-10-27,active,"Senior Software Engineer II - Integrations; Senior Software Engineer II, Applied AI; Senior Software Engineer II, Business Systems | added 2026-10-23 daily sweep"
 Quora,https://www.quora.com/careers/,custom,discovered,2026-10-27,active,"Senior Machine Learning Engineer, Ads - Quora (Remote); Senior Machine Learning Engineer, Ranking - Quora (Remote); Senior Software Engineer - Infrastructure Security (Remote); Staff Machine Learning Engineer, Recommendation Systems - Quora (Remote) | added 2026-10-23 daily sweep"
 FutureFit AI,https://www.futurefit.ai/careers,custom,discovered,2026-10-27,active,"Senior Backend Engineer (Integrations & Platform); Staff ML Platform Engineer (MLOps) | added 2026-10-23 daily sweep"
@@ -333,9 +338,10 @@ Develop Health,https://www.develophealth.io/careers,custom,discovered,2026-10-27
 LanceDB,https://jobs.ashbyhq.com/lancedb,ashby,discovered,2026-10-28,active,"Senior Software Engineer | added 2026-10-23 daily sweep"
 Meeru AI,https://meeru.ai/careers,custom,discovered,2026-10-23,active,Staff Data Engineer | added 2026-10-23 daily sweep
 ev.energy,https://ev.energy/careers,custom,discovered,2026-10-23,active,Senior Data Engineer | added 2026-10-23 daily sweep
-Simbe Robotics,https://builtincalgary.org/company/simbe-robotics/jobs,custom,builtincalgary,2026-10-23,active,Staff/Senior Data Engineer | added 2026-10-23 daily sweep
-Midjourney,https://www.midjourney.com/careers,custom,discovered,2026-10-27,active,"Senior Cloud / Data Engineer (Data / Reconstruction / HIPAA); Senior Machine Learning Engineer (Clinical Team) | added 2026-10-23 daily sweep"
-Jane App,https://jane.app/careers,custom,discovered,2026-10-23,active,Staff Data Engineer - Customer Signals & Instrumentation | added 2026-10-23 daily sweep
+Simbe Robotics,https://builtincalgary.org/company/simbe-robotics/jobs,custom,builtincalgary,2026-10-29,active,Staff/Senior Data Engineer | added 2026-10-23 daily sweep | re-checked 2026-10-29: Senior Robotics Software Engineer (C++ & Python)
+Midjourney,https://www.midjourney.com/careers,custom,discovered,2026-10-29,active,"Senior Cloud / Data Engineer (Data / Reconstruction / HIPAA); Senior Machine Learning Engineer (Clinical Team) | added 2026-10-23 daily sweep
+ | re-checked 2026-10-29: Principal Machine Learning Engineer (Reconstruction / Quantitative Imaging)"
+Jane App,https://jane.app/careers,custom,discovered,2026-10-29,active,Staff Data Engineer - Customer Signals & Instrumentation | added 2026-10-23 daily sweep | re-checked 2026-10-29: Senior Developer - Platform (Developer Operations)
 Juniper Square,https://www.junipersquare.com/company/careers,custom,discovered,2026-10-27,active,"Senior Software Engineer, Platform; Senior Staff Software Engineer, Data | added 2026-10-23 daily sweep"
 Illumina,https://www.illumina.com/careers,custom,discovered,2026-10-23,active,Staff Data Engineer | added 2026-10-23 daily sweep
 Spellbook,https://spellbook.com/careers,custom,discovered,2026-10-23,active,Senior Data Engineer | added 2026-10-23 daily sweep
@@ -344,7 +350,7 @@ Coherent,https://www.coherent.com/careers,custom,discovered,2026-10-23,active,Pr
 Point One Navigation,https://builtincalgary.org/company/point-one-navigation/jobs,custom,builtincalgary,2026-10-27,active,"Senior DevOps Engineer; Staff Network Backend Engineer | added 2026-10-23 daily sweep"
 Tie,https://builtincalgary.org/company/tie/jobs,custom,builtincalgary,2026-10-28,active,"Lead Platform Engineer, AI-Native (Canada Remote); Senior AI / Machine Learning Engineer (Canada Remote); Senior FullStack Engineer (Canada Remote) | added 2026-10-23 daily sweep"
 TravelAI Solutions,https://travelaisolutions.com/careers,custom,discovered,2026-10-23,active,"Senior Backend / Platform Engineer; Senior Backend / Platform Engineer, Forward Deployed | added 2026-10-23 daily sweep"
-Burq,https://builtincalgary.org/company/burq-inc/jobs,custom,builtincalgary,2026-10-23,active,Senior Platform Engineer | added 2026-10-23 daily sweep
+Burq,https://builtincalgary.org/company/burq-inc/jobs,custom,builtincalgary,2026-10-29,active,Senior Platform Engineer | added 2026-10-23 daily sweep | re-checked 2026-10-29: Staff Full-Stack Software Engineer; Staff Machine Learning / Operations Research Engineer
 EverCommerce,https://www.evercommerce.com/about-us/careers/,custom,discovered,2026-10-23,active,"EverPro - Senior Software Engineer, Platform (Remote) | added 2026-10-23 daily sweep"
 Runway,https://runway.com/careers,custom,discovered,2026-10-27,active,"⚙️ Senior/Staff Platform Engineer | added 2026-10-23 daily sweep"
 High 5 Games,https://high5games.com/about/careers/,custom,discovered,2026-10-23,active,Senior Client Platform Engineer | added 2026-10-23 daily sweep
@@ -354,21 +360,23 @@ Lillio,https://www.lillio.com/careers,custom,discovered,2026-10-23,active,Senior
 Orum,https://www.orum.com/careers,custom,discovered,2026-10-27,active,"Senior Software Engineer - Product Platform Team | added 2026-10-23 daily sweep"
 Boundless Life,https://www.boundless.life/careers,custom,discovered,2026-10-23,active,Senior Fullstack Developer (Remote) | added 2026-10-23 daily sweep
 CoverGo,https://covergo.com/careers/,custom,discovered,2026-10-23,active,"Lead Full Stack Engineer (.Net, Vue/React) - Fully Remote ; careers page links to Workable job board | added 2026-10-23 daily sweep"
-Midi Health,https://builtincalgary.org/company/midi-health/jobs,custom,builtincalgary,2026-10-27,active,"Senior Software Engineer, Fullstack; Staff Fullstack Software Engineer | added 2026-10-23 daily sweep"
+Midi Health,https://builtincalgary.org/company/midi-health/jobs,custom,builtincalgary,2026-10-29,active,"Senior Software Engineer, Fullstack; Staff Fullstack Software Engineer | added 2026-10-23 daily sweep
+ | re-checked 2026-10-29: Senior Software Engineer, AI Engineer"
 GoodTime.io,https://goodtime.io/careers/,custom,discovered,2026-10-23,active,Senior Full Stack Engineer - Canada | added 2026-10-23 daily sweep
 Qohash,https://qohash.com/careers/,custom,discovered,2026-10-27,active,"Senior Full Stack Developer (React, Java) | added 2026-10-23 daily sweep"
 Instrumentl,https://www.instrumentl.com/careers,custom,discovered,2026-10-23,active,Senior Full Stack Software Engineer | added 2026-10-23 daily sweep
 Scope3,https://www.scope3.com/careers,custom,discovered,2026-10-23,active,"Staff Software Engineer (Fullstack, BE-leaning) | added 2026-10-23 daily sweep"
 Chubb,https://www.chubb.com/ca-en/careers,custom,discovered,2026-10-23,active,Senior Full Stack Engineer | added 2026-10-23 daily sweep
 Spangle AI,https://builtincalgary.org/company/spangle-ai/jobs,custom,builtincalgary,2026-10-23,active,Senior Fullstack Engineer | added 2026-10-23 daily sweep
-Doxel,https://doxel.ai/careers,custom,discovered,2026-10-27,active,"Senior Full Stack Software Engineer; Staff Software Engineer, Full Stack | added 2026-10-23 daily sweep"
+Doxel,https://doxel.ai/careers,custom,discovered,2026-10-29,active,"Senior Full Stack Software Engineer; Staff Software Engineer, Full Stack | added 2026-10-23 daily sweep
+ | re-checked 2026-10-29: Senior Backend Software Engineer"
 Nuclear Promise X,https://builtincalgary.org/company/nuclear-promise-x/jobs,custom,builtincalgary,2026-10-23,active,Senior Full Stack Developer | added 2026-10-23 daily sweep
 Mainstay,https://www.mainstay.io/careers,custom,discovered,2026-10-27,active,"Senior Full-Stack Software Engineer, AI | added 2026-10-23 daily sweep"
 JITX,https://www.jitx.com/careers,custom,discovered,2026-10-23,active,Principal Full Stack Software Engineer | added 2026-10-23 daily sweep
-Seeq,https://www.seeq.com/careers/,custom,discovered,2026-10-23,active,Staff Full Stack Software Engineer | added 2026-10-23 daily sweep
+Seeq,https://www.seeq.com/careers/,custom,discovered,2026-10-29,active,Staff Full Stack Software Engineer | added 2026-10-23 daily sweep | re-checked 2026-10-29: Full Stack Software Engineer - Staff or Principal
 Emumba,https://emumba.com/open-positions/,custom,discovered,2026-10-23,active,Staff Backend Engineer | added 2026-10-23 daily sweep
-Raydar,https://builtincalgary.org/company/raydar/jobs,custom,builtincalgary,2026-10-23,active,Staff Backend Engineer | added 2026-10-23 daily sweep
-vCluster,https://www.vcluster.com/careers,custom,discovered,2026-10-23,active,Senior Software Engineer (Backend) | added 2026-10-23 daily sweep
+Raydar,https://builtincalgary.org/company/raydar/jobs,custom,builtincalgary,2026-10-29,active,"Staff Backend Engineer | added 2026-10-23 daily sweep | re-checked 2026-10-29: Senior Software Engineer; Senior Software Engineer, Infrastructure"
+vCluster,https://www.vcluster.com/careers,custom,discovered,2026-10-29,active,Senior Software Engineer (Backend) | added 2026-10-23 daily sweep | re-checked 2026-10-29: Staff Software Engineer
 DuckDuckGo,https://duckduckgo.com/hiring,custom,discovered,2026-10-23,active,Senior Backend Engineer | added 2026-10-23 daily sweep
 OX Security,https://www.ox.security/careers/,custom,discovered,2026-10-23,active,Senior Backend Engineer - Agentic Pentest; Senior Backend Engineer - Vibesec | added 2026-10-23 daily sweep
 Plooto,https://www.plooto.com/careers,custom,discovered,2026-10-27,active,"Senior Backend Engineer | added 2026-10-23 daily sweep"
@@ -387,14 +395,16 @@ SmartVerify,https://www.smartverify.ai/careers,custom,discovered,2026-10-23,acti
 S32,https://s32.io/careers,custom,discovered,2026-10-23,active,Senior Machine Learning Engineer (Multiple Opportunities) | added 2026-10-23 daily sweep
 PolicyMe,https://www.policyme.com/careers,custom,discovered,2026-10-27,active,"Senior Software Engineer (Remote) | added 2026-10-23 daily sweep"
 Proof,https://www.proofserve.com/careers,custom,discovered,2026-10-27,active,"Senior Full-Stack Developer (Canada) | added 2026-10-23 daily sweep"
-Miratech,https://jobs.smartrecruiters.com/Miratech1,smartrecruiters,discovered,2026-10-28,active,Full Stack Engineer (React and Go); Senior Routing Engine Developer (CX Platform) | added 2026-10-23 daily sweep
-Xsolla,https://jobs.lever.co/xsolla,lever,discovered,2026-10-27,active,"Senior Software Engineer; Staff Software Engineer - Identity & Access Management | added 2026-10-23 daily sweep"
+Miratech,https://jobs.smartrecruiters.com/Miratech1,smartrecruiters,discovered,2026-10-29,active,Full Stack Engineer (React and Go); Senior Routing Engine Developer (CX Platform) | added 2026-10-23 daily sweep | re-checked 2026-10-29: Senior Full Stack Java Engineer
+Xsolla,https://jobs.lever.co/xsolla,lever,discovered,2026-10-29,rejected,"Senior Software Engineer; Staff Software Engineer - Identity & Access Management | added 2026-10-23 daily sweep
+ | crypto/Web3 payments employer - excluded per 2026-10-24 crypto policy"
 Axiom Bio,https://jobs.ashbyhq.com/axiombio,ashby,discovered,2026-10-27,active,"Platform Engineer | added 2026-10-24 daily sweep"
 BeyondTrust,https://job-boards.greenhouse.io/beyondtrust,greenhouse,discovered,2026-10-28,active,"Sr Site Reliability Engineer | added 2026-10-24 daily sweep"
-"Docker, Inc",https://jobs.ashbyhq.com/docker,ashby,discovered,2026-10-24,active,"Staff Software Engineer, Infrastructure | added 2026-10-24 daily sweep"
+"Docker, Inc",https://jobs.ashbyhq.com/docker,ashby,discovered,2026-10-29,active,"Staff Software Engineer, Infrastructure | added 2026-10-24 daily sweep | re-checked 2026-10-29: Senior Software Engineer, Security, Docker Desktop"
 Fetch,https://job-boards.greenhouse.io/fetch,greenhouse,discovered,2026-10-27,active,"Senior Machine Learning Engineer II; Staff Machine Learning Engineer - Ad Platform | added 2026-10-24 daily sweep"
 H2 Analytics,https://jobs.ashbyhq.com/h2analytics,ashby,discovered,2026-10-27,active,"Senior Software Engineer | added 2026-10-24 daily sweep"
-MaintainX,https://jobs.ashbyhq.com/maintainx,ashby,discovered,2026-10-28,active,"Applied AI Engineer; Infrastructure Developer, Platform Engineering | added 2026-10-24 daily sweep"
+MaintainX,https://jobs.ashbyhq.com/maintainx,ashby,discovered,2026-10-29,active,"Applied AI Engineer; Infrastructure Developer, Platform Engineering | added 2026-10-24 daily sweep
+ | re-checked 2026-10-29: Développeur(se) Full-Stack Principal - Core; Développeur(se) Full-Stack Principal - Platform & Infrastructure; Principal Software Developer, Backend Platform; Senior AI Platform Developer"
 Nearform,https://job-boards.greenhouse.io/nearform,greenhouse,discovered,2026-10-27,active,"Senior Software Engineer - Python & AI | added 2026-10-24 daily sweep"
 Praia Health,https://praia.com/careers,custom,discovered,2026-10-24,active,Staff Software Engineer - Data Infrastructure | added 2026-10-24 daily sweep
 Pyramid Global Hospitality,https://www.pyramidglobalhospitality.com/careers,custom,discovered,2026-10-24,active,Full Stack AI Engineer | added 2026-10-24 daily sweep
@@ -407,7 +417,7 @@ APEXA Corp,http://www.apexa.ca/careers,unknown,sweep-2026-10-27,2026-10-27,activ
 Affinity.co,https://jobs.ashbyhq.com/affinity/,ashby,sweep-2026-10-27,2026-10-27,active,Canada-remote senior engineering role; Staff Software Engineer
 Apartment List,https://www.apartmentlist.com/careers,unknown,sweep-2026-10-27,2026-10-27,active,"Canada-remote senior engineering role; Senior Software Engineer II, Marketplace; page blocks automated fetch (403) - verify in browser"
 Arc (joinarc.com),https://joinarc.com/careers,unknown,sweep-2026-10-27,2026-10-27,active,"Canada-remote senior engineering role; Senior Staff Engineer, AI"
-Arctic Wolf,https://arcticwolf.com/careers,unknown,sweep-2026-10-27,2026-10-27,active,Canada-remote senior engineering role; Staff AI Developer
+Arctic Wolf,https://arcticwolf.com/careers,unknown,sweep-2026-10-27,2026-10-29,active,Canada-remote senior engineering role; Staff AI Developer | re-checked 2026-10-29: Senior Developer - Detection Platform
 AssemblyAI,https://job-boards.greenhouse.io/assemblyai/,greenhouse,sweep-2026-10-27,2026-10-27,active,"Canada-remote senior engineering role; Senior Software Engineer, Inference"
 AtoB,https://jobs.ashbyhq.com/atob/,ashby,sweep-2026-10-27,2026-10-28,active,"Canada-remote senior engineering role; Senior Software Engineer, Payments"
 Awarri,http://www.awarri.com/company/careers,unknown,sweep-2026-10-27,2026-10-27,active,Canada-remote senior engineering role; Senior AI Engineer (WAT Remote)
@@ -415,10 +425,10 @@ BIMM,https://job-boards.greenhouse.io/bimm/,greenhouse,sweep-2026-10-27,2026-10-
 Bot Auto,https://job-boards.greenhouse.io/botauto/,greenhouse,sweep-2026-10-27,2026-10-27,active,"Canada-remote senior engineering role; Senior Software Engineer, Applied AI"
 C-Gen.AI,https://c-gen.ai/careers,unknown,sweep-2026-10-27,2026-10-27,active,Canada-remote senior engineering role; Senior Software Engineer
 Counterpart Health,https://job-boards.greenhouse.io/counterparthealth/,greenhouse,sweep-2026-10-27,2026-10-27,active,Canada-remote senior engineering role; Senior Software Developer
-Credit Acceptance Corporation,https://www.creditacceptance.com/careers,unknown,sweep-2026-10-27,2026-10-27,active,"Canada-remote senior engineering role; Staff Machine Learning Engineer, Platform (MLOPS)"
+Credit Acceptance Corporation,https://www.creditacceptance.com/careers,unknown,sweep-2026-10-27,2026-10-29,active,"Canada-remote senior engineering role; Staff Machine Learning Engineer, Platform (MLOPS) | re-checked 2026-10-29: Distinguished Software Engineer"
 Dapster AI,https://jobs.ashbyhq.com/dapster/,ashby,sweep-2026-10-27,2026-10-27,active,Canada-remote senior engineering role; Lead Robotics Software Engineer
 Euler Software Inc.,https://eulerapp.com/careers,unknown,sweep-2026-10-27,2026-10-27,active,Canada-remote senior engineering role; Senior Full Stack Engineer
-GRAM (gramcorporation.com),https://job-boards.greenhouse.io/gram/,greenhouse,sweep-2026-10-27,2026-10-27,active,"Canada-remote senior engineering role; Senior Software Engineer, Robot Data Infrastructure"
+GRAM (gramcorporation.com),https://job-boards.greenhouse.io/gram/,greenhouse,sweep-2026-10-27,2026-10-29,active,"Canada-remote senior engineering role; Senior Software Engineer, Robot Data Infrastructure | re-checked 2026-10-29: Senior Software Engineer, Controls"
 Glia,https://jobs.ashbyhq.com/glia/,ashby,sweep-2026-10-27,2026-10-27,active,Canada-remote senior engineering role; Senior Software Engineer - Conversational AI (Python)
 Helix,https://www.helix.com/careers,unknown,sweep-2026-10-27,2026-10-27,active,Canada-remote senior engineering role; Staff Software Engineer - Experience
 Honeywell,https://www.honeywell.com/us/en/careers,unknown,sweep-2026-10-27,2026-10-27,active,"Canada-remote senior engineering role; Senior Advanced Application Engineer, Blending Technology"
@@ -432,7 +442,7 @@ Nango,https://jobs.ashbyhq.com/nango/,ashby,sweep-2026-10-27,2026-10-27,active,C
 Narvar,https://job-boards.greenhouse.io/narvar/,greenhouse,sweep-2026-10-27,2026-10-27,active,"Canada-remote senior engineering role; Senior Software Developer, Rust"
 OneSignal,https://onesignal.com/careers,unknown,sweep-2026-10-27,2026-10-27,active,"Canada-remote senior engineering role; Staff Software Engineer, Core Services"
 Oyster,https://jobs.ashbyhq.com/oyster/,ashby,sweep-2026-10-27,2026-10-27,active,Canada-remote senior engineering role; Senior AI Solutions Engineer
-Parallel Domain,https://jobs.lever.co/paralleldomain/,lever,sweep-2026-10-27,2026-10-27,active,Canada-remote senior engineering role; Senior Site Reliability Engineer
+Parallel Domain,https://jobs.lever.co/paralleldomain/,lever,sweep-2026-10-27,2026-10-29,active,Canada-remote senior engineering role; Senior Site Reliability Engineer | re-checked 2026-10-29: Senior Software Engineer - Backend
 Planet,https://job-boards.greenhouse.io/planetlabs/,greenhouse,sweep-2026-10-27,2026-10-27,active,"Canada-remote senior engineering role; Senior Software Engineer, Storage Infrastructure"
 Portage CyberTech,https://www.portagecybertech.com/careers,unknown,sweep-2026-10-27,2026-10-27,active,"Canada-remote senior engineering role; Développeur.euse JAVA Desktop Senior /  Senior, Java Desktop Developer (Signature)"
 Redwood Software,https://job-boards.greenhouse.io/redwoodsoftware/,greenhouse,sweep-2026-10-27,2026-10-28,active,Canada-remote senior engineering role; Senior Site Reliability Engineer
@@ -440,11 +450,11 @@ Redwood Software,https://job-boards.greenhouse.io/redwoodsoftware/,greenhouse,sw
 SearchApi,https://jobs.ashbyhq.com/searchapi/,ashby,sweep-2026-10-27,2026-10-28,active,Canada-remote senior engineering role; Senior Infrastructure Engineer
 Serve Robotics,https://jobs.ashbyhq.com/serverobotics/,ashby,sweep-2026-10-27,2026-10-27,active,"Canada-remote senior engineering role; Sr. Embedded Software Engineer,  Robotics Platform"
 Shippo,https://goshippo.com/jobs,unknown,sweep-2026-10-27,2026-10-27,active,"Canada-remote senior engineering role; Senior Software Engineer, WebApp"
-Solid State AI,https://www.solidstate.ai/careers,unknown,sweep-2026-10-27,2026-10-27,active,Canada-remote senior engineering role; Senior Software Engineer
+Solid State AI,https://www.solidstate.ai/careers,unknown,sweep-2026-10-27,2026-10-29,active,Canada-remote senior engineering role; Senior Software Engineer | re-checked 2026-10-29: Senior ML Engineer
 Technosylva,https://technosylva.com/careers,unknown,sweep-2026-10-27,2026-10-27,active,Canada-remote senior engineering role; Senior Software Engineer - Canada Only
 Topstep,https://www.topstep.com/careers,unknown,sweep-2026-10-27,2026-10-27,active,"Canada-remote senior engineering role; Senior Software Engineer, TRM"
 Twilio,https://job-boards.greenhouse.io/twilio/,greenhouse,sweep-2026-10-27,2026-10-27,active,Canada-remote senior engineering role; Senior Software Engineer (L3)
-Tyba,https://jobs.ashbyhq.com/tyba/,ashby,sweep-2026-10-27,2026-10-27,active,Canada-remote senior engineering role; Senior Product Software Engineer (Clojurescript)
+Tyba,https://jobs.ashbyhq.com/tyba/,ashby,sweep-2026-10-27,2026-10-29,active,Canada-remote senior engineering role; Senior Product Software Engineer (Clojurescript) | re-checked 2026-10-29: Senior Product Software Engineer (Python)
 Wagmo,https://jobs.ashbyhq.com/wagmo/,ashby,sweep-2026-10-27,2026-10-27,active,Canada-remote senior engineering role; Senior Software Engineer - Canada
 Beacon Holdings,https://jobs.ashbyhq.com/beaconholdings,ashby,sweep-2026-10-28,2026-10-28,active,"Portfolio Software Engineer; Lead Software Engineer - Canada (Remote) | added 2026-10-28 daily sweep"
 Brex,https://www.brex.com/careers,greenhouse,sweep-2026-10-28,2026-10-28,active,"Fintech; 6 Canada-remote senior/staff SWE roles on Greenhouse | added 2026-10-28 daily sweep"
@@ -453,3 +463,59 @@ Moxie,https://jobs.ashbyhq.com/moxie,ashby,sweep-2026-10-28,2026-10-28,active,"S
 Questrade Financial Group,https://jobs.dayforcehcm.com/qfg/CANDIDATEPORTAL,dayforce,sweep-2026-10-28,2026-10-28,active,"Calgary-headquartered fintech; Dayforce board with Calgary SWE roles | added 2026-10-28 daily sweep"
 SecurityScorecard,https://job-boards.greenhouse.io/securityscorecard,greenhouse,sweep-2026-10-28,2026-10-28,active,"Cybersecurity ratings; Canada-remote Distinguished SWE, AI | added 2026-10-28 daily sweep"
 Spade,https://jobs.ashbyhq.com/spade,ashby,sweep-2026-10-28,2026-10-28,active,"Payments/fintech; Canada-remote backend and platform security roles | added 2026-10-28 daily sweep"
+
+Akuity,https://job-boards.greenhouse.io/akuity,greenhouse,sweep-2026-10-29,2026-10-29,active,No qualifying Canada SWE roles found this sweep; tracked as pipeline target | added 2026-10-29 daily sweep
+AlphaSense,https://job-boards.greenhouse.io/alphasense,greenhouse,sweep-2026-10-29,2026-10-29,active,Principal Software Engineer; Senior Product Security Engineer | added 2026-10-29 daily sweep
+Amplemarket,https://job-boards.greenhouse.io/amplemarket,greenhouse,sweep-2026-10-29,2026-10-29,active,Senior Backend Software Engineer | added 2026-10-29 daily sweep
+Andromeda,https://jobs.ashbyhq.com/andromeda,ashby,sweep-2026-10-29,2026-10-29,active,Senior Site Reliability Engineer  | added 2026-10-29 daily sweep
+Aurora Solar,https://jobs.ashbyhq.com/aurorasolar,ashby,sweep-2026-10-29,2026-10-29,active,"Senior Software Engineer, Computation | added 2026-10-29 daily sweep"
+AuthZed,https://jobs.ashbyhq.com/authzed,ashby,sweep-2026-10-29,2026-10-29,active,Senior Software Engineer; Sr. Site Reliability Engineer | added 2026-10-29 daily sweep
+Banyan Software,https://job-boards.greenhouse.io/banyansoftware,greenhouse,sweep-2026-10-29,2026-10-29,active,Senior SRE | added 2026-10-29 daily sweep
+Bree,https://jobs.ashbyhq.com/bree,ashby,sweep-2026-10-29,2026-10-29,active,Senior Fullstack Engineer | added 2026-10-29 daily sweep
+CoLab Software,https://job-boards.greenhouse.io/colabsoftware,greenhouse,sweep-2026-10-29,2026-10-29,active,Senior 3D & AI Systems Software Developer; Senior Software Developer - Simulation | added 2026-10-29 daily sweep
+Cyberhaven,https://jobs.ashbyhq.com/cyberhaven,ashby,sweep-2026-10-29,2026-10-29,active,Staff Software Engineer (Cloud API) | added 2026-10-29 daily sweep
+Electric Air,https://jobs.ashbyhq.com/electricair,ashby,sweep-2026-10-29,2026-10-29,active,Senior Full Stack Software Engineer | added 2026-10-29 daily sweep
+Fellow,https://job-boards.greenhouse.io/fellow,greenhouse,sweep-2026-10-29,2026-10-29,active,No qualifying Canada SWE roles found this sweep; tracked as pipeline target | added 2026-10-29 daily sweep
+Honeycomb.io,https://job-boards.greenhouse.io/honeycomb,greenhouse,sweep-2026-10-29,2026-10-29,active,Senior Software Engineer I - Agent Observability; Senior Software Engineer II - Agent Observability; Senior Software Engineer II - Agentic Intelligence; Senior Software Engineer II - Storage | added 2026-10-29 daily sweep
+Megaport,https://jobs.lever.co/megaport,lever,sweep-2026-10-29,2026-10-29,active,Backend Software Engineer | added 2026-10-29 daily sweep
+Merge Labs,https://jobs.ashbyhq.com/merge,ashby,sweep-2026-10-29,2026-10-29,active,"Senior/Staff Software Engineer, Tech Lead | added 2026-10-29 daily sweep"
+Mural,https://jobs.ashbyhq.com/mural,ashby,sweep-2026-10-29,2026-10-29,active,"Senior Software Engineer, Canvas Core; Senior Software Engineer, Growth ; Senior Software Engineer, Integrated Workflows | added 2026-10-29 daily sweep"
+Neural Concept,https://jobs.ashbyhq.com/neuralconcept,ashby,sweep-2026-10-29,2026-10-29,active,No qualifying Canada SWE roles found this sweep; tracked as pipeline target | added 2026-10-29 daily sweep
+Neuron7,https://jobs.lever.co/neuron7,lever,sweep-2026-10-29,2026-10-29,active,No qualifying Canada SWE roles found this sweep; tracked as pipeline target | added 2026-10-29 daily sweep
+Palladio AI,https://jobs.ashbyhq.com/palladio,ashby,sweep-2026-10-29,2026-10-29,active,No qualifying Canada SWE roles found this sweep; tracked as pipeline target | added 2026-10-29 daily sweep
+Reach Security,https://jobs.ashbyhq.com/reach,ashby,sweep-2026-10-29,2026-10-29,active,Senior Staff Software Engineer (Data Platform); Staff Software Engineer (Backend) | added 2026-10-29 daily sweep
+Reflow,https://jobs.ashbyhq.com/reflow,ashby,sweep-2026-10-29,2026-10-29,active,Lead Full Stack Developer | added 2026-10-29 daily sweep
+Rush Street Interactive,https://job-boards.greenhouse.io/rushstreetinteractive,greenhouse,sweep-2026-10-29,2026-10-29,active,"Senior Software Engineer, Services | added 2026-10-29 daily sweep"
+Sentra,https://jobs.ashbyhq.com/sentra,ashby,sweep-2026-10-29,2026-10-29,active,Senior Backend Software Engineer | added 2026-10-29 daily sweep
+Smile Digital Health,https://jobs.lever.co/smiledigitalhealth,lever,sweep-2026-10-29,2026-10-29,active,"Frontend Developer, Intermediate (Remote Canada); Senior Cloud Security Engineer (Remote Ontario); Software Developer Intermediate (Remote Ontario); Software Developer, Senior (Remote Canada) | added 2026-10-29 daily sweep"
+Stripe,https://job-boards.greenhouse.io/stripe,greenhouse,sweep-2026-10-29,2026-10-29,active,"Staff Software Engineer, High Availability and Disaster Recovery; Staff Software Engineer, Payments Intelligence; Staff Software Engineer, Risk Data Engineering; Staff Software Engineer, Risk Engineering | added 2026-10-29 daily sweep"
+Theori,https://jobs.ashbyhq.com/theori,ashby,sweep-2026-10-29,2026-10-29,active,No qualifying Canada SWE roles found this sweep; tracked as pipeline target | added 2026-10-29 daily sweep
+Valiantys,https://jobs.lever.co/valiantys,lever,sweep-2026-10-29,2026-10-29,active,No qualifying Canada SWE roles found this sweep; tracked as pipeline target | added 2026-10-29 daily sweep
+Vectara,https://job-boards.greenhouse.io/vectara,greenhouse,sweep-2026-10-29,2026-10-29,active,Staff Software Engineer | added 2026-10-29 daily sweep
+Very Good Security,https://jobs.lever.co/verygoodsecurity,lever,sweep-2026-10-29,2026-10-29,active,Staff Software Engineer - DevEx | added 2026-10-29 daily sweep
+Voldex,https://jobs.ashbyhq.com/voldex,ashby,sweep-2026-10-29,2026-10-29,active,No qualifying Canada SWE roles found this sweep; tracked as pipeline target | added 2026-10-29 daily sweep
+Weave,https://jobs.ashbyhq.com/weave,ashby,sweep-2026-10-29,2026-10-29,active,Staff Software Engineer | added 2026-10-29 daily sweep
+Yotta Labs,https://jobs.ashbyhq.com/yotta,ashby,sweep-2026-10-29,2026-10-29,active,No qualifying Canada SWE roles found this sweep; tracked as pipeline target | added 2026-10-29 daily sweep
+Atomicwork,https://atomicwork.com/company/careers,custom,sweep-2026-10-29,2026-10-29,active,No qualifying Canada SWE roles found this sweep; tracked as pipeline target | added 2026-10-29 daily sweep
+Aalyria,https://aalyria.com/careers,custom,sweep-2026-10-29,2026-10-29,active,No qualifying Canada SWE roles found this sweep; tracked as pipeline target | added 2026-10-29 daily sweep
+AuxoAI,https://auxoai.com/careers,custom,sweep-2026-10-29,2026-10-29,active,No qualifying Canada SWE roles found this sweep; tracked as pipeline target | added 2026-10-29 daily sweep
+Boosted Technology,https://boosted.ai/careers,custom,sweep-2026-10-29,2026-10-29,active,Senior Software Engineer | added 2026-10-29 daily sweep
+Buckland,https://buckland.com/careers,custom,sweep-2026-10-29,2026-10-29,active,No qualifying Canada SWE roles found this sweep; tracked as pipeline target | added 2026-10-29 daily sweep
+BrightOrder Inc.,https://brightorder.com/jobs,custom,sweep-2026-10-29,2026-10-29,active,No qualifying Canada SWE roles found this sweep; tracked as pipeline target | added 2026-10-29 daily sweep
+Collinear AI,https://collinear.ai/careers,custom,sweep-2026-10-29,2026-10-29,active,No qualifying Canada SWE roles found this sweep; tracked as pipeline target | added 2026-10-29 daily sweep
+FreeBalance,https://freebalance.com/careers,custom,sweep-2026-10-29,2026-10-29,active,No qualifying Canada SWE roles found this sweep; tracked as pipeline target | added 2026-10-29 daily sweep
+Hightouch,https://hightouch.com/careers,custom,sweep-2026-10-29,2026-10-29,active,No qualifying Canada SWE roles found this sweep; tracked as pipeline target | added 2026-10-29 daily sweep
+Jibble,https://jibble.io/careers,custom,sweep-2026-10-29,2026-10-29,active,Senior Back-End Developer | added 2026-10-29 daily sweep
+JazzX AI,https://jazzx.ai/careers,custom,sweep-2026-10-29,2026-10-29,active,No qualifying Canada SWE roles found this sweep; tracked as pipeline target | added 2026-10-29 daily sweep
+Keycard,https://keycard.ai/careers,custom,sweep-2026-10-29,2026-10-29,active,No qualifying Canada SWE roles found this sweep; tracked as pipeline target | added 2026-10-29 daily sweep
+Lutra,https://lutra.com/careers,custom,sweep-2026-10-29,2026-10-29,active,"Senior Software Engineer, Voice AI | added 2026-10-29 daily sweep"
+Magnitude Software,https://magnitude.com/careers,custom,sweep-2026-10-29,2026-10-29,active,Principal Software Engineer — Platform Services | added 2026-10-29 daily sweep
+Nokia,https://nokia.com/careers,custom,sweep-2026-10-29,2026-10-29,active,Sr. Principal Software Engineer | added 2026-10-29 daily sweep
+Nuvei,https://nuvei.com/careers,custom,sweep-2026-10-29,2026-10-29,active,No qualifying Canada SWE roles found this sweep; tracked as pipeline target | added 2026-10-29 daily sweep
+Onfleet,https://onfleet.com/careers,custom,sweep-2026-10-29,2026-10-29,active,No qualifying Canada SWE roles found this sweep; tracked as pipeline target | added 2026-10-29 daily sweep
+OutSystems,https://outsystems.com/careers,custom,sweep-2026-10-29,2026-10-29,active,Senior Site Reliability Engineer; Senior Software Engineer | added 2026-10-29 daily sweep
+Quantiphi,https://quantiphi.com/careers,custom,sweep-2026-10-29,2026-10-29,active,No qualifying Canada SWE roles found this sweep; tracked as pipeline target | added 2026-10-29 daily sweep
+Superhuman,https://superhuman.com/careers,custom,sweep-2026-10-29,2026-10-29,active,No qualifying Canada SWE roles found this sweep; tracked as pipeline target | added 2026-10-29 daily sweep
+Wave HQ,https://www.wave.com/en/careers/,custom,sweep-2026-10-29,2026-10-29,active,Senior Software Engineer | added 2026-10-29 daily sweep
+Yolando,https://yolando.com/careers,custom,sweep-2026-10-29,2026-10-29,active,No qualifying Canada SWE roles found this sweep; tracked as pipeline target | added 2026-10-29 daily sweep
+nesto,https://nesto.com/careers,custom,sweep-2026-10-29,2026-10-29,active,Senior Data Reliability Developer; Senior Platform Developer | added 2026-10-29 daily sweep

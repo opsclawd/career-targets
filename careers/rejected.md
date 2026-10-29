@@ -67,3 +67,21 @@ Employers or pages that should be deprioritized or excluded.
 ### Crypto/Web3 companies (Coinbase, Trust Wallet, Localcoin, Crypto.com, Kraken Digital Asset Exchange, D/XYZ, Pantheon Platform)
 **Reason:** Web3/crypto-native employers with no non-crypto software engineering function; consistent with the 2026-10-23 whole-company exclusion.
 **Action:** Excluded from the registry.
+
+## Daily Sweep 2026-10-29 Additions
+
+### Arta Finance (jobs.ashbyhq.com/artafinance)
+**Reason:** Crypto-native trading platform (Arta). Web3/crypto employers are excluded from the registry per the 2026-10-23 and 2026-10-24 whole-company exclusions.
+**Action:** Exclude from registry; postings skipped.
+
+### Blackpoint Cyber (builtincalgary.org postings)
+**Reason:** Web3 smart-contract security audit firm. Only postings found were Sr. Full Stack SWE, Sr. SRE and Sr. SWE (AI/ML), all crypto-sector.
+**Action:** Exclude from registry; postings skipped.
+
+### Lynx Software Technologies
+**Reason:** Calgary industrial-software company, but no canonical careers page could be verified — `lynxsoftware.com` resolves to an unrelated mobile-app studio (Bobcat Technologies, 404 on `/careers`), and no Ashby/Greenhouse/Lever/Workable/SmartRecruiters/Dover board responded to slug probes.
+**Action:** Not added this run. Revisit if a real domain or ATS slug surfaces.
+
+### Xsolla (jobs.lever.co/xsolla)
+**Reason:** Crypto/Web3 payments employer (added to the registry by mistake on 2026-10-23).
+**Action:** Registry status changed to `rejected`; no further postings to be added.
